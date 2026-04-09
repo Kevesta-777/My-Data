@@ -1,0 +1,90 @@
+-----------------Canada Account
+
+Allan Mcrae & Aidan Smith & Hudson Jones
+ Address: 1869 30 Comox St, Vancouver
+ Phone: 604-646-2752
+ Gmail: herospace118@Gmail.com
+ University: Simon Fraser University (SFU)   &&   Capilano University (4 years 2018-2022)   &&   Columbia College
+
+
+-----------------Netherland Account
+Pieter Jansen & Jeroen Bakker & Vera Smit
+ Address: Dommelstraat 2  
+          5611 CK, Eindhoven
+ Phone: 040-5536472
+ Gmail: userspace118@Gmail.com
+ University: Hogeschool Tio (hbo en mbo)   &&   Eindhoven University of Technology (TU/e 3 years 2018-2021)
+
+
+
+
+----------------------------------Professional Experience----------------------------------
+
+1. Material Engineering
+
+company:Alloy Casting Industries
+Conducted simulations and calculations to determine the physical and chemical properties of different materials using Material Studio
+Evaluated and compared the structural and energetic characteristics of different material configurations using Material Studio tools and algorithms
+Extensive experience in conducting virtual simulations to identify potential casting defects, such as porosity, shrinkage, and solidification issues.
+Demonstrated success in collaborating with cross-functional teams, including design engineers and foundry operators, to streamline cast process workflows and enhance casting quality.
+Tech Stack: Esi Group(Procast),Material Studio(MS Modeling),Marc,Deform
+
+2. Full-Stack Development
+
+company:Raftlabs
+Develop and maintain responsive web applications using front-end technologies such as HTML, CSS, and JavaScript, ensuring optimal user experience across different browsers and devices.
+Collaborate with cross-functional teams to gather and analyze requirements, design system architecture, and implement scalable and secure solutions, following best practices and industry standards.
+Utilize PHP, Python, or other server-side languages to build robust back-end systems, including database design and integration, API development, and server configuration.
+Implement and maintain effective testing strategies, including unit testing, integration testing, and continuous integration, to ensure code quality and system stability throughout the development lifecycle.
+Tech Stack: Javascript, React, Node, Docker, AWS, Web3.JS
+
+
+3. Unity3D & 3D Modeling
+
+company:Raftlabs
+Developed interactive and engaging mobile games using Unity3D engine, contributing to a 50% increase in user engagement and revenue.
+Designed and implemented innovative gameplay mechanics and features for Unity3D projects, resulting in a 20% increase in player retention.
+Conducted regular bug testing and troubleshooting, identifying and resolving issues to ensure smooth gameplay and minimize user complaints.
+Tech Stack: Unity,SolidWorks,3D Max,Blender,Maya
+
+---------------------------------Education--------------------------------------
+
+Master's Degree in Material Science and Engineering
+May 2018 - August 2022
+Capilano University, Vancouver of Canada
+
+Bachelor of Science in Material Science and Engineering:
+                                         
+                  Developed a strong foundation in materials science through coursework encompassing principles of materials 
+                  synthesis and characterization. Hands-on laboratory experience in mechanical testing, electron microscopy,
+                  and thermal analysis techniques. Completed a senior capstone project focused on the design and fabrication
+                  of novel composite materials with enhanced mechanical properties.
+
+ProCast Software: 
+                  Completed a Bachelor's degree in Material Engineering with a specialization in cast simulation and analysis. 
+                  Acquired comprehensive knowledge of casting processes, principles, and material properties. 
+                  Studied expertise in using ProCast software for simulating and analyzing castingprocesses to optimize design
+                  and ensure product quality.
+
+---------------------------------Summary--------------------------------------
+
+ Material Engineering Master of much experience in Material science & engineering simulation analysis. 
+Senior Developer with 5+ years of experience building up web & having rich experience in C# programming, Unity3D, 3D Modeling, and Team Collaboration.
+
+---------------------------------Key Skills--------------------------------------
+
+ Material Engineering software
+ Full-Stack Development
+ Unity3D
+ 3D Modeling & Rendering
+ 3D Design
+
+---------------------------------Languages---------------------------------------
+ 
+ English
+ Russian
+ Chinese
+
+---------------------------------Gmail recovery---------------------------------------------------
+https://accounts.google.com/signup/v2/
+?TL=AHNYTIQD_sn_tpv5to_cek3JPrj32XrqKfVpN8ZZiD-gPkpx_ZBxSCH9xrdJTVcF&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&dsh=S873358347%3A1707389944458207&ec=asw-gmail-hero-create&flowEntry=SignUp&flowName=GlifWebSignIn&hl=en-US&service=mail&theme=glif
