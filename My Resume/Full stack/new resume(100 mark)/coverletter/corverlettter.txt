@@ -1,0 +1,1432 @@
+Nuxt.js
+https://colivhq.com/
+https://www.casamia.co/
+
+Crypto currency exchange: 
+=================
+
+https://viper.exchange/#/
+https://yunex.io/
+https://www.venly.io/
+=================
+
+De.Fi & NFT Marketplace:
+=================
+https://stake.sensible.finance
+https://www.roachfest.com/
+https://www.holycows.com/
+https://nft.moonstartoken.com
+https://www.whalemakernft.com/
+
+
+=================  Mobile BLE App Developer
+
+I have rich experience in BLE connecting, paring, communicating.
+Also, I built built many BLE device apps such like EasyKeyFinder iOS app, iBeacon/Eddystone apps, etc.
+
+BLE Apps : 
+I have done BLE mobile apps for Sensoria fitness devices.
+https://store.sensoriafitness.com/
+
+And there are some other Bluetooth apps that I have done.
+https://play.google.com/store/apps/details?id=com.samsung.android.app.scharm&hl=en_US&gl=US
+https://apps.apple.com/us/app/aquapro/id1615343095
+
+NFC Decoder
+https://www.bluebite.com/decode
+https://play.google.com/store/apps/details?id=com.bluebite.decode&hl=en_US
+https://apps.apple.com/us/app/decode-nfc-scanner/id964303354
+
+
+Ionic Repository:
+=================
+https://github.com/DavidonRails/bfc_ionic
+https://github.com/DavidonRails/EMWS
+https://github.com/DavidonRails/markate_git
+
+Swift iOS:
+==========
+https://github.com/DavidonRails/Netcast (Public)
+https://github.com/DavidonRails/Lawyer-iOS (Public)
+https://github.com/DavidonRails/InstaChain_iOS (Public)
+https://github.com/DavidonRails/ZeFi_iOS (Private)
+
+Kotlin Android:
+===============
+I send zip file of Android kotlin project for your review.
+https://drive.google.com/file/d/1aH22sJsk6gW8PIVjj8YsLW6mu2Cy7fFo/view?usp=sharing
+
+This is source code for Walking App - Lose Weight App.
+https://play.google.com/store/apps/details?id=walking.weightloss.walk.tracker&hl=en_US&gl=US&pli=1
+
+React Native :
+==============
+https://github.com/DavidonRails/ultra
+https://github.com/DavidonRails/huddle
+https://github.com/DavidonRails/YAS.life
+https://github.com/DavidonRails/bare_dating
+
+I hope you understand that I can not share source code of other apps because of NDA with past clients.
+
+
+React :
+=======
+https://github.com/DavidonRails/CoinPay
+https://github.com/DavidonRails/Jo-sample
+
+
+
+
+
+
+============================================================
+eCommmerce(Wordpress-WooCommmerce) : 
+
+MenConcept
+- https://menconcept.rs/
+- menconcept is e-commerce platform for selling clothes and shoes.
+- I have worked on database programming, and on scaling and optimizing the entire platform
+- Technology used: Python, Node.js, PHP, Vue.js, BigData/Database Handling/MySQL programming
+
+https://www.bmonstore.com/
+https://www.dineamic.com.au/
+https://frameitall.com/
+https://www.publicgoods.com/
+https://hodlroriginal.com/
+https://howtocakeit.com/
+https://www.vikingdota.com/
+https://www.medicbatteries.com/
+https://www.innosupps.com/
+https://www.lightmirrors.co.uk/
+
+
+============================================================
+eCommmerce(BigCommmerce) : 
+I have experienced in following services and addons in Bigcommerce :
+Bigcommerce Services
+- Bigcommerce Custom Feature Development
+- Bigcommerce Stencil Customization
+- Bigcommerce Theme Update/Version Update
+- Bigcommerce Store Maintenance
+- Bigcommerce Speed Optimization
+- Bigcommerce Product import/export (Data Entry)
+- Bigcommerce Optimized Checkout Customization
+- Bigcommerce Private/Public App creation
+- Bigcommerce store migration V2 to V3 catalog experience
+
+Bigcommerce Addons
+- Fully Controllable Datepicker on checkout
+- Custom Checkout using checkout SDK
+- Merge Shipping/Billing Section
+- Customer Group Payment/Shipping method restriction
+- Make/Model/Year Search
+- Faceted Search
+- Quick Order page
+- Mega Menu
+- Brands Slider
+- Custom Product Tabs
+- Frequently Bought Together
+- Email Templates Customization/Branding
+- Store Locator Page     
+
+https://liabyjomarigoyso.com/
+https://saddlebackleather.com/
+https://maruccisports.com/
+
+============================================================
+Java Backend 
+I have 6 years of experience in Java Backend Development.
+I have rich experience in Spring Boot, Spring security (Auth2 and JWT), Struts, Hibernate, Java EE, Java Web Development, Servlet, JSP.
+
+- Full-stack web development using Java Spring Boot and Thymeleaf for front-end development
+- RESTful API development using Spring Boot and Spring Data JPA for back-end development
+- Microservices development using Spring Boot and Spring Cloud
+- Integration with databases such as MySQL, PostgreSQL, and MongoDB
+- Implementation of security features such as authentication and authorization using Spring Security
+- Deployment to cloud platforms such as AWS, Azure, and Google Cloud Platform
+- Ongoing support and maintenance for your application
+
+Please kindly check my java bankend work in my gith.
+https://github.com/LuckyBoy88888/websocket-server
+
+______________Roland_____________________
+
+Wheels up.
+https://itunes.apple.com/us/app/wheels-up/id956615077?mt=8
+https://play.google.com/store/apps/details?id=com.wheelsup.app.app
+
+Zinio News App
+https://www.zinio.com
+https://play.google.com/store/apps/details?id=com.zinio.mobile.android.reader&hl=en&gl=US
+
+Entertainment and Streaming video broadcast app
+https://help.kanopy.com/hc/en-us
+https://itunes.apple.com/us/app/kanopy/id1205614510?mt=8
+https://play.google.com/store/apps/details?id=com.kanopy
+
+Vent iOS App
+https://apps.apple.com/us/app/vent-express-your-feelings/id780298346
+https://play.google.com/store/apps/details?id=com.vent&hl=en&gl=US
+
+blogTO
+https://www.blogto.com/
+https://apps.apple.com/ca/app/blogto/id435310228
+https://play.google.com/store/apps/details?id=com.blogto.patioguide&hl=en_US&gl=US
+
+sixthcontinent
+https://www.sixthcontinent.com
+https://play.google.com/store/apps/details?id=com.sixthcontinent.sixthmarketclient&hl=en_AU&gl=US
+https://apps.apple.com/us/app/sixthcontinent/id735982475
+
+
+______________Roland_____________________
+SoundWise
+https://mysoundwise.com/
+https://apps.apple.com/us/app/soundwise-learn-on-the-go/id1290299134
+https://play.google.com/store/apps/details?id=com.soundwisecms_mobile_android&hl=en_US
+
+CoachCare
+https://www.coachcare.com/
+https://apps.apple.com/us/app/coachcare/id1243494518
+https://play.google.com/store/apps/details?id=com.coachcare.coachcareionic
+
+Organic Response
+https://apps.apple.com/au/app/organic-response/id933706820
+https://play.google.com/store/apps/details?id=com.organicresponse.oic2&hl=en
+
+Pyxis
+https://play.google.com/store/apps/details?id=network.pyxis
+
+______________David_________________
+Bozzuto Resident Experience(Realestate experience)
+https://www.bozzuto.com/
+https://apps.apple.com/us/app/bozzuto-resident-experience/id1371620819
+https://play.google.com/store/apps/details?id=com.yardi.systems.rentcafe.resident.bozzutos
+
+Lose It(Top Rated Weight Loss Plan)
+https://www.loseit.com/
+https://apps.apple.com/us/app/id297368629
+https://play.google.com/store/apps/details?id=com.fitnow.loseit
+
+happn — Dating app
+https://www.happn.com/
+https://apps.apple.com/app/id489185828
+https://play.google.com/store/apps/details?id=com.ftw_and_co.happn
+
+ParkWhiz - Best Parking app
+https://www.parkwhiz.com/
+https://apps.apple.com/US/app/id595743376?mt=8
+https://play.google.com/store/apps/details?id=com.parkwhiz.driverApp
+
+================== Mobile Interview Question =========================
+
+SwiftToolbox,
+CocoaPods,
+RxSwift,
+Trending Cocoa Pods,
+Alamore,
+SwiftyJSON,
+PromiseKit,
+BrightFutures,
+SDebImage...
+
+================== Android Mobile Interview Question ======================
+
+
+================== iOS Mobile Interview Question =========================
+
+1)  
+- What's the something cool about developing UIs in Xcode?
+  I am using Storyboard in building UI of iOS Apps. 
+  Storyboards are an essential tool when creating videos. 
+
+ - Why? 
+Because they allow you to make the best use of time and resources. Storyboards are simple and easy to understand, and they help you visualize your video before you start filming. They’re also a great way to organize your video without having to spend hours editing. Finally, they allow you to get your point across quickly and concisely to your team so that you can get to the fun part – filming!
+
+2) Favorite Architecture Pattern. Why?
+ I am using MVC(Model View Controller) pattern.
+ Recently I am trying to use MVVM pattern too. 
+why?- 
+View knows about View Model, View Model knows about Model, Model knows nothing
+When there is a UI event, View informs the View Model about the UI event.
+View Model performs some logics and writes data to the Model
+View Model observes the data changes from Model and update its own data
+View observes the data changes from View Model. If there are any changes, View is responsible to update the UI
+Please note that the Activity/Fragment has been moved up to View. Also, the dependency and data flow are unidirectional.
+
+
+================== Blockchain Interview Question =========================
+
+1. What is your favorite web3 project? Why?
+Decventraland
+The Decentraland metaverse revolves mostly around customization of virtual parcels of land and creating new experiences. Users have been exploring the prospects for mortgages on virtual property and renting out virtual property for events in the metaverse. As a matter of fact, Decentraland has captured the attention of many big brands such as Samsung, Adidas and PwC.
+
+2. what’s your favorite JS/TS feature? what is something you don’t like?
+While developing program by using TS, I can see some lint or grammar errors.
+But JS doesn't.
+
+3. What is a JS/TS framework you like (frontend or backend or utils) and why?
+To develop the frontend, I commonly use Next.js
+Because Next.js is SSR and it has own Node.js backend (/pages/api) as Serverless API format.
+
+In terms of backend, I commonly use Node.js.
+Because it is very convenient and flexible for me to develop the backend by using new tlx/
+
+4. When building an API, what are the top 3 things you focus on?
+Efficiency, Ease of use, Cross-against signish
+
+
+5. Are unit tests or integration tests more important? Why?
+Create the test cases
+Review or rework
+Baseline
+
+- Solutions
+Execute test cases
+End-to-end Testing
+
+→Performance Testing
+→End-to-end Testing
+→Cross-Platform Testing
+I will do it one by one.
+
+============== Golang backend projects (not related to Blockchain) ============
+
+https://www.vervecoffee.com 
+https://www.winpharm.com
+https://www.wellnessliving.com 
+https://www.allvuesystems.com
+
+
+
+
+🔑💧🌟☀🌞⭐🌜🌛🌎🌏🚐🚗🎄🎁⚽
+
+====  Why working at a start-up ? ======
+
+I think that I can have more opportunities to advance my career as the business expands rapidly.
+And I think that I can be part of a team that is energetic and enthusiastic about your vision and mission.
+
+==== Tell us what makes you unique ======
+
+I really enjoy learning new things and am constantly seeking out new learning opportunities.
+
+
+==== Why are you interested in our company ?======
+
+I am sure that I can be a great addition to your project with my rich experience.
+It would be warm thanks if you could help me get started with this great opportunity soon.
+I am full of beans and of course, I will do my best!
+
+==== Send Comfirmation ======
+
+🔑💧🌟☀🌞⭐🌜🌛🌎🌏🚐🚗🎄🎁⚽
+
+1) -----------------------------------------
+
+I won't let you down. you might be extremely excited with my work, I am 100% sure
+
+Thanks.
+
+2) -----------------------------------------
+
+I am full of beans.
+It would be greatly appreciated if you could help me get started with a great opportunity soon.
+I am extremely looking forward to hearing your positive response.
+Thanks.
+
+-------------------------------------------------------------------------------------------------------------------------------------|
+🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟Devis Pei ---  Blockchain 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
+-------------------------------------------------------------------------------------------------------------------------------------|
+
+Hi 👋. How are you?
+
+Now I am located in China and I am looking for full time job by remote position.
+
+I am an experienced Rust & Solidity, JavaScript with over two years of experience in programming with interacting with cryptocurrency blockchains Ethereum, Polygon, Immutable X and Layers 2s like Solana.
+
+I have a vast history of working on several projects where my skill sets were required. 
+I have created Solana SPL tokens/NFT and remodeled dApps. 
+I can share links for more details if you’re interested.
+
+Please check my recent works on Solana smart contract developments.
+
+- Integrated DApp & DeFi & DeX & Stake on Solana
+https://dyf-staging.synesis.one (Full Stack developer - developing frontend, smart contract and web3 integration)
+
+- Integrated DApp & DeFi & DeX & Stake on EVM
+http://gainpool.io/ (Full Stack developer - developing frontend, smart contract and web3 integration)
+
+
+I will help you secure your smart contract by making sure you use the right libraries and recent industry practices of writing smart contracts as well as passing it through tests to ensure there are no bugs. 
+I will also give you a detailed report and have attached my work for reference purposes.
+
+I work with targets and optimize my work so my clients get their jobs delivered very quickly. 
+I have good communication skills and keep long-term relationships.
+
+I hope to speak to you soon to learn more about how I can help you grow your business.
+
+Please check my portfolio and schedule the meeting if you want.
+https://devispei.vercel.app
+
+Best Regards
+Devis
+
+-----------------------------------------------------------------------------------------------------------------------|
+🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟 Devis --- Full Stack 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
+-----------------------------------------------------------------------------------------------------------------------|
+
+Dear 👋. How are you?
+
+Now I am located in China and I am looking for full time job by remote position.
+
+I am a highly innovative, experienced full-stack developer with 10 years of experience.
+I have built many Frontend and Backend web projects for US and EU clients during last 6 years.
+
+I have a great experience in: 
+- Frontend : ReactJS, VueJS, AngularJS, NextJS, NuxtJS
+- Backend : Python, Django, Asp.net, .net Core, Java, Apache Groovy, PHP, Node.js, Golang, Flask,  ROR
+- AI(Artificial Intelligence) : OpenAI, GPT-3, AI chat bot, PDF parser engine, Generate good answers from prompt, Generate meaningful images accordingly
+- Web3 : Web3.js, Solidity, Solana, Rust, Ethereum API
+- Cloud : Nginx, Heroku, Docker, AWS, GCP
+- Mobile: React Native, Fluttter, Swift, Objective-C, Java, Kotlin
+- Agile : Github, Gitlab, Bitbucket, Jira, Slack, Microsoft Teams
+
+Please kindly check my Github:
+https://github.com/spreadmycode/
+
+Please kindly check my Portfolio:
+https://devispei.vercel.app/
+
+I can build Web, Mobile projects with providing advanced Blockchain and AI capabilities.
+I am sure that everything will be matched to your particular needs. 
+Long term work is what I am after as well if needed. 
+My aim is to push the limits of every brief. 
+A great communication, team work, research and meeting deadlines is what I am proud of.
+
+I always look for ways to demonstrate that through development work. I produce unique and non-standard wishes for my clients. My process of creating a project is connected to solutions, concepts, progress and realization.
+
+I hope we can work together soon on your project.
+Have a great day.
+
+Sincerely yours
+Devis.
+
+-----------------------------------------------------------------------------------------------------------------------|
+🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟 Devis --- AI 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
+-----------------------------------------------------------------------------------------------------------------------|
+
+Dear 👋. How are you?
+
+I have deep understanding of the latest advancements in OpenAI, GPT-3, and other AI technologies, and have extensive experience integrating the OpenAI API into various applications, providing advanced AI capabilities.
+
+Please kindly check my previous work which is implemented with OpenAI and GPT-3 API.
+https://subconscious.ai/
+This project is to help people find the solution for their frustrated life.
+The most important thing is to generate good answers from prompt and generate meaningful images accordingly.
+I implemented OpenAI (Dall-E) API to handle these two tasks.
+In addition, I took part in a lot of AI projects and bots.
+
+Also please kindly check my previous works for AI chat bot and PDF parser engine.
+https://www.loom.com/share/8d0d2ac11b1849fea9462d784d71a847?sid=f8aa0dc1-e433-48a2-915b-13573f721ee3
+https://www.loom.com/share/3966f470294549d09dc7b336eae66314?sid=31ecdf99-c57b-47a3-af22-4be0689c5b88
+https://www.loom.com/share/d388b173c6ef4534a336f49ef3028a9a?sid=5fe521ee-a73b-4255-8d79-553907ad4507
+
+I am looking forward to working with you and taking your business to the next level with the power of AI.
+
+Sincerely,
+Devis
+
+=========================================
+
+⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽ ~~~ 슛 ~~~~~ 다시 재촉할때.
+
+
+Hi Xxxx, I hope you're doing well! 
+
+I am very confident in the role of Senior at XXXX.
+
+I can demonstrate my high skill through an interview and skill assessments.
+I won't let you down. you might be extremely excited with my work, I am 100% sure.
+It would be greatly appreciated if you could help me get started with a great opportunity soon.
+I am extremely looking forward to hearing your positive response.
+Thanks.
+
+⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽
+
+
+
+------------------------------------------------------------------------------------------------------------------------------|
+🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎    Mike --- Full Stack  🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎
+-------------------------------------------------------------------------------------------------------------------------------|
+
+Dear 👋. How are you?
+
+Now I live in China and I am looking for full time job by remote position.
+
+I am an experienced full-stack developer, who feels comfortable with both front-end and back-end. 
+With my comprehensive experience I strongly believe that I could help you achieve success in your project. 
+
+I have a great experience in Frontend and Backend development:
+
+- Frontend Development : ReactJS, VueJS, NextJS, NuxtJS, Angular2+ JS, C#.Net Core
+- Mobile Development : Objective-C, Swift, Java, Kotlin, React Native, Expo, Flutter, MVVM, MVC
+- Backend API : PHP(Laravel, Codeignitor, Cakephp), Node.js(Express), Python, Django, Flask
+- Extensive experience working with third party APIs 
+- Experience with TDD and BDD (Unit test, Integration tests on server side, Client side tests with jest and enzyme) 
+- Strong experience with GIT, Agile development (Scrum) 
+- AWS, GCPm Nginx, Heroku, Docker
+
+Please kindly check my React/NextJS projects:
+https://www.stanza.co/
+https://www.boomset.com/
+https://sothebyshomes.com/
+
+Please kindly check my Vue/NuxtJS projects:
+https://colivhq.com/
+https://www.casamia.co/
+
+Please kindly check my AngularJS projects:
+https://www.glo.com/
+https://sportium.es
+
+I enjoy immersing myself in the codes, solving different problems and reaching good results. 
+I can demonstrate my high skill through an interview.
+I am always available for an interview at any time.
+I’m looking forward to working with you soon. 
+
+Best Regards.
+Mike
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+💙 💙 💙 💙💙 💙 💙 💙💙 💙 💙 💙 ALL --- React 💙 💙 💙 💙💙 💙 💙 💙💙 💙 💙 💙
+--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Hi 👋. How are you?
+
+Now I am located in China and I am looking for full time job by remote position.
+
+I have lived with React Frontend Development for 6 years. 
+With my comprehensive experience I strongly believe that I could help you achieve success in your React Projects. 
+
+I have a great experience in: 
+- React JS/Redux, Redux-saga/Thunk, Reselect, Recompose, Redux Immutable, Socket.io 
+- GraphQL, Apollo - ES next, Babel, Typescript, EsLint, TsLint 
+- Fireabse, Social Auth(Google, Facebook, Apple ID, etc), Payment(Stripe, Paypal), Push Notification, Video Streaming, PDF Viewer, BLE Plugin etc.
+- Extensive experience working with third party APIs 
+- Experience with TDD and BDD (Jest, Enzyme, Mocha, Chai, Unit, integration tests on server side, Client side tests with jest and enzyme) 
+- Strong experience with GIT, Agile development (Scrum) 
+- Nginx, Heroku, Docker, AWS (Elastic Beanstalk, Cognito, Amplify, Lambda)
+- React Native, Expo, Objective-C, Swift, Java, Kotlin, iOS, Android
+
+Please kindly check my React/NextJS projects:
+https://www.stanza.co/
+https://www.boomset.com/
+https://sothebyshomes.com/
+
+I can demonstrate my high skill through an interview and skill assessments.
+I am available anytime for an interview and I can start working right now
+If you need any more information or would like to set up a meeting to discuss further don’t hesitate to contact me.
+I will look forward to hearing from you soon.
+
+Warm Regards.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+💙 💙 💙 💙💙 💙 💙 💙💙 💙 💙 💙 ALL --- React Native 💙 💙 💙 💙💙 💙 💙 💙💙 💙 💙 💙
+--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Hi 👋. How are you?
+
+Now I am located in China and I am looking for full time job by remote position.
+
+I have lived with React native Mobile Development for 6 years. 
+I am strong at React Native, Expo, Material UI, Native Base, etc.
+With my comprehensive full-stack experience I strongly believe that I could help you achieve success in your React Native Mobile Project. 
+
+I have a great experience in: 
+- React Native, Expo, Objective-C, Swift, Java, Kotlin, iOS, Android
+- React JS/Redux, Redux-saga/Thunk, Reselect, Recompose, Redux Immutable, Socket.io 
+- GraphQL, Apollo - ES next, Babel, Typescript, EsLint, TsLint 
+- Fireabse, Social Auth(Google, Facebook, Apple ID, etc), Payment(Stripe, Paypal), Push Notification, Video Streaming, PDF Viewer, BLE Plugin etc.
+- Extensive experience working with third party APIs 
+- Experience with TDD and BDD (Jest, Enzyme, Mocha, Chai, Unit, integration tests on server side, Client side tests with jest and enzyme) 
+- Strong experience with GIT, Agile development (Scrum) 
+- Nginx, Heroku, Docker, AWS (Elastic Beanstalk, Cognito, Amplify, Lambda)
+
+Please kindly check my React Native Mobile Apps.
+SoundWise :
+https://mysoundwise.com/
+https://apps.apple.com/us/app/soundwise-learn-on-the-go/id1290299134
+https://play.google.com/store/apps/details?id=com.soundwisecms_mobile_android&hl=en_US
+
+CoachCare :
+https://www.coachcare.com/
+https://apps.apple.com/us/app/coachcare/id1243494518
+https://play.google.com/store/apps/details?id=com.coachcare.coachcareionic
+
+Organic Response :
+https://apps.apple.com/au/app/organic-response/id933706820
+https://play.google.com/store/apps/details?id=com.organicresponse.oic2&hl=en
+
+Beck Taxi: 
+https://itunes.apple.com/us/app/beck-taxi/id512292008?mt=8 
+https://play.google.com/store/apps/details?id=com.beck.android.becktaxi 
+
+Ruuby 
+https://itunes.apple.com/gb/app/ruuby/id951092698?mt=8
+https://play.google.com/store/apps/details?id=com.ruubycustomerapp
+
+If you need any more information or would like to set up a meeting to discuss further don’t hesitate to contact me.
+Thank you for your time and consideration.
+
+Warm Regards.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------|
+📱📱📱📱📱📱📱📱📱📱📱📱📱 ROLAND -- Mobile 📱📱📱📱📱📱📱📱📱📱📱📱
+---------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Hi 👋. Thanks for connecting.
+
+Now I live in China and I am looking for full time job  by remote position. I can work on your time zone.
+
+I have rich experience with iOS and Android app development.
+I can build the apps in a native or cross-platform or both.
+Objective-C, Swift, Java, Kotlin, React Native, Expo, Flutter are my main technologies to build the mobile app.
+
+Please kindly check my apps
+SoundWise :
+https://mysoundwise.com/
+https://apps.apple.com/us/app/soundwise-learn-on-the-go/id1290299134
+https://play.google.com/store/apps/details?id=com.soundwisecms_mobile_android&hl=en_US
+
+CoachCare :
+https://www.coachcare.com/
+https://apps.apple.com/us/app/coachcare/id1243494518
+https://play.google.com/store/apps/details?id=com.coachcare.coachcareionic
+
+Organic Response :
+https://apps.apple.com/au/app/organic-response/id933706820
+https://play.google.com/store/apps/details?id=com.organicresponse.oic2&hl=en
+
+Sensoria Health Apps with Sensoria Devices:
+https://www.sensoriahealth.com/
+https://apps.apple.com/us/developer/sensoria-inc/id900720187
+
+
+I am always available for an interview at any time and support full service.
+My motto is a high speed, high quality, and good responsiveness.
+I hope to hear from you soon.
+
+Best Regards.
+Roland
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+💙 💙 💙 💙💙 💙 💙 💙💙 💙 💙 💙 ROLAND -- Full Stack 💙 💙 💙 💙💙 💙 💙 💙💙 💙 💙 💙
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Hi 👋. How are you?
+
+Now I am located in China and I am looking for full time job by remote position.
+
+I am a full-stack engineer with 10 years of professional experience working on enterprise and startup projects.
+I have built many enterprises web and mobile apps for US and EU markets with clients during last 3 years.
+I am passionate about learning, expanding knowledge, building high quality software, and automation.
+
+With my comprehensive experience I strongly believe that I could help you achieve success in your startup project.
+
+I have a great experience in: 
+- Frontend : ReactJS, VueJS, NextJS, NuxtJS, AngularJS, C#.Net Core
+- Backend : PHP(Laravel, Codeignitor, Cakephp), Node.js(Express), Python, Django, Flask
+- Mobile : React Native, Expo, Flutter, Objective-C, Swift, Java, Kotlin, iOS, Android
+- React JS/Redux, Redux-saga/Thunk, Reselect, Recompose, Redux Immutable, Socket.io 
+- GraphQL, Apollo - ES next, Babel, Typescript, EsLint, TsLint 
+- Fireabse, Social Auth(Google, Facebook, Apple ID, etc), Payment(Stripe, Paypal), Push Notification, Video Streaming, PDF Viewer, BLE Plugin etc.
+- Extensive experience working with third party APIs 
+- Experience with TDD and BDD (Jest, Enzyme, Mocha, Chai, Unit, integration tests on server side, Client-side tests with jest and enzyme) 
+- Strong experience with GIT, Agile development (Scrum) 
+- Nginx, Heroku, Docker, AWS (Elastic Beanstalk, Cognito, Amplify, Lambda)
+
+
+Please kindly check my past Web and Mobile apps:
+
+https://www.stanza.co/
+https://www.boomset.com/
+https://sothebyshomes.com/
+
+SoundWise :
+https://mysoundwise.com/
+https://apps.apple.com/us/app/soundwise-learn-on-the-go/id1290299134
+https://play.google.com/store/apps/details?id=com.soundwisecms_mobile_android&hl=en_US
+
+CoachCare :
+https://www.coachcare.com/
+https://apps.apple.com/us/app/coachcare/id1243494518
+https://play.google.com/store/apps/details?id=com.coachcare.coachcareionic
+
+Organic Response :
+https://apps.apple.com/au/app/organic-response/id933706820
+https://play.google.com/store/apps/details?id=com.organicresponse.oic2&hl=en
+
+I am always available for an interview at any time and support full service.
+My motto is a high speed, high quality, and good responsiveness.
+I hope to hear from you soon.
+
+Best Regards.
+Roland
+
+----------------------------------------------------------------------------------------------------------------|
+🍎🍎🍎🍎🍎🍎🍎🍎   David Ceng --- Full Stack  🍎🍎🍎🍎🍎🍎🍎
+----------------------------------------------------------------------------------------------------------------|
+
+Hi 👋. How are you?
+
+Now I am located in China and I am looking for full time job by remote position.
+
+I am an experienced full-stack developer, who feels comfortable with both back-end and front-end. 
+With my comprehensive experience I strongly believe that I could help you achieve success in your project.
+
+Please kindly check my past works:
+https://ruckusmarketing.com
+https://www.badruttspalace.com
+https://bluefountainmedia.com
+https://useallfive.com
+
+Please kindly check my past mobile works:
+
+Bozzuto Resident Experience(Realestate experience)
+https://www.bozzuto.com/
+https://apps.apple.com/us/app/bozzuto-resident-experience/id1371620819
+https://play.google.com/store/apps/details?id=com.yardi.systems.rentcafe.resident.bozzutos
+
+Lose It(Top Rated Weight Loss Plan)
+https://www.loseit.com/
+https://apps.apple.com/us/app/id297368629
+https://play.google.com/store/apps/details?id=com.fitnow.loseit
+
+IC Markets (Best Stock Trading App for CFD, Stocks, Crypto)
+https://www.icmarkets.com/global/en/
+https://apps.apple.com/au/app/ic-markets/id1552875348
+https://play.google.com/store/apps/details?id=com.icmarkets.mobileapp
+
+I have a great experience in: 
+
+• Front-end: Jquery, Bootstrap, Ajax, Javascript, Angular.js, React.js, Vue.js, jQuery, JSON, XML, HTML5, CSS3
+• Back-end: Node.js, Python, Flask, PHP (Laravel, Codeignitor, Cakephp), Ruby on Rails, C#.net core, Asp.net MVC
+• Databases: SQL (MySQL, PostgreSQL), LING(MSSQL), NoSQL (MongoDB, Redis) 
+• Source Control: Git, Github, Gitlab, Bitbucket 
+• Page Speed Optimization, SEO, AWS, DevOps, Docker, Heroku, GCP 
+• Mobile: Flutter, React Native, Ionic, Swift, Objective-C, Java, Kotlin
+
+I enjoy immersing myself in the codes, solving different problems and reaching good results. 
+I can help your project.
+I’m looking forward to hearing from you soon. 
+
+Best Regards.
+David
+
+-------------------------------------------------------------------------------------------------|
+🍎🍎🍎🍎🍎🍎🍎🍎  David -- Mobile 🍎🍎🍎🍎🍎🍎🍎🍎
+-------------------------------------------------------------------------------------------------|
+
+Dear , How are you?
+
+Now I am located in China and I am looking for full time job by remote position.
+
+I am a Senior Mobile Developer with 8 years of experience.
+Over 8 years, I've developed many great mobile apps to proud 20k reviews and 1M+ downloads for US and EU clients.
+My core skills are Swift, Objective-C, Kotlin, Java, React Native, Flutter, React, Node.js, Python, AWS, GCP, OOP, etc.
+
+Please kindly check my past mobile works:
+
+Bozzuto Resident Experience(Realestate experience)
+https://www.bozzuto.com/
+https://apps.apple.com/us/app/bozzuto-resident-experience/id1371620819
+https://play.google.com/store/apps/details?id=com.yardi.systems.rentcafe.resident.bozzutos
+
+Lose It(Top Rated Weight Loss Plan)
+https://www.loseit.com/
+https://apps.apple.com/us/app/id297368629
+https://play.google.com/store/apps/details?id=com.fitnow.loseit
+
+IC Markets (Best Stock Trading App for CFD, Stocks, Crypto)
+https://www.icmarkets.com/global/en/
+https://apps.apple.com/au/app/ic-markets/id1552875348
+https://play.google.com/store/apps/details?id=com.icmarkets.mobileapp
+
+ParkWhiz - Best Parking app
+https://www.parkwhiz.com/
+https://apps.apple.com/US/app/id595743376?mt=8
+https://play.google.com/store/apps/details?id=com.parkwhiz.driverApp
+
+I'm confident I can be a great addition to your project.
+If you are interested in me, I want to share more my experience and your project via a meeting.
+I am always available for a call with you.
+
+Best Regards.
+David
+
+
+------------------------------------------------------------------------------------|
+📱 📱 📱 📱 📱 📱  All --- Flutter Mobile 📱 📱 📱 📱 📱 
+------------------------------------------------------------------------------------|
+
+Hi 👋. How are you?
+
+Now I am located in China and I am looking for full time job by remote position.
+
+I have rich experience in Flutter mobile app development during last 4 years. 
+I am strong at Flutter UI kit, Firebase, Flutter Plugin development, Material Design App, etc.
+
+Please kindly check my flutter apps:
+Parkmobile Parking App
+https://parkmobile.io/
+https://apps.apple.com/app/id365399299
+https://play.google.com/store/apps/details?id=net.sharewire.parkmobilev2
+
+Plan Employee Scheduling App
+https://www.planday.com/
+https://apps.apple.com/us/app/planday-employee-scheduling/id518598166
+https://play.google.com/store/apps/details?id=com.planday.ninetofiveapp
+
+Bozzuto Resident Experience(Realestate experience)
+https://www.bozzuto.com/
+https://apps.apple.com/us/app/bozzuto-resident-experience/id1371620819
+https://play.google.com/store/apps/details?id=com.yardi.systems.rentcafe.resident.bozzutos
+
+I can demonstrate my high skill through an interview.
+I will look forward to hearing from you soon.
+
+Best Regards.
+
+
+---------------------------------------------------------------------------------------------|
+🧡🧡🧡🧡🧡🧡 Unity 3D AR/VR/Game 🧡🧡🧡🧡🧡🧡
+---------------------------------------------------------------------------------------------|
+
+Hello, Nice to meet you.
+
+Now I am located in China and I am looking for full time job by remote position.
+
+As I am an experienced AR/VR/Game developer with Unity 3D and UE4, I have rich experiences in that fields.
+
+Please kindly check my past 3D game and apps:
+
+-VR Industrial Training Simulator
+https://www.youtube.com/watch?v=CX0AW1V9664&t=13s
+
+-VR Exhibition Level Design
+https://www.youtube.com/watch?v=HlR1WRzDFHo&t=17s
+
+-360 degree live streaming VR application
+https://www.youtube.com/watch?v=k2iaMZKaGYg
+
+-Pixel Streaming UE4
+https://www.youtube.com/watch?v=d4BQNzS-EGE
+
+I'm confident I can be a great addition to your project.
+If you are interested in me, I want to share more my experience and your project via a meeting.
+I am always available for a call with you.
+
+Best Regards
+Robert
+
+
+
+
+------------------------------------------------------------------------------------|
+🧡🧡🧡🧡🧡🧡 All --- Vue JS 🧡🧡🧡🧡🧡🧡
+------------------------------------------------------------------------------------|
+Hi 👋. Thanks for connecting.
+
+I have almost 6 years of experience with Vue.js ecosystem that includes:
+Vuejs (Optional api and composition api)
+Vuetify
+Nuxtjs
+Quasar(cross platform apps)
+Vuex (state mangement)
+Pinia(state management)
+
+Please kindly check my Vue/NuxtJS projects:
+https://colivhq.com/
+https://www.casamia.co/
+
+My code quality will always be high and code will be documented. 
+I can demonstrate my high skill through an interview.
+I will look forward to hearing from you soon.
+Regards.
+
+
+
+🔑💧🌟☀🌞⭐🌜🌛🌎🌏🚐🚗🎄🎁⚽
+🔑💧🌟☀🌞⭐🌜🌛🌎🌏🚐🚗🎄🎁⚽
+
+---------------------------------------------- Shopify
+
+
+Dear,  How are you?
+
+From last 8+ years, I have been involved in Shopify/Liquid, Shopify Plus, Shopify designing, development, updating, maintenance, optimization, security and troubleshooting. 
+I have developed many custom extensions, responsive themes apart from this have also integrated Shopify with Third-party as well. 
+And I am also strong at React frontend development - React JS/Redux, Redux-saga/Thunk, Reselect, Recompose, Redux Immutable, Socket.io, etc
+
+I have a good understanding of Shopify core concepts, admin, checkout, payment gateway integration, site optimization, caching etc.
+I'm ready to work on this project immediately.
+I look forward to working with you for long term relationship.
+Best Regards, Sanjay
+
+Please check my past shopify work for clients.
+MenConcept
+- https://menconcept.rs/
+- menconcept is e-commerce platform for selling clothes and shoes.
+- I have worked on database programming, and on scaling and optimizing the entire platform
+- Technology used: Python, Node.js, PHP, Vue.js, BigData/Database Handling/MySQL programming
+
+https://www.bmonstore.com/
+https://www.dineamic.com.au/
+https://frameitall.com/
+https://www.publicgoods.com/
+https://hodlroriginal.com/
+https://howtocakeit.com/
+https://www.vikingdota.com/
+https://www.medicbatteries.com/
+https://www.innosupps.com/
+https://www.lightmirrors.co.uk/
+https://ditisbobo.nl/
+https://headlampguys.com/
+
+I can demonstrate my high skill through an interview.
+I will look forward to hearing from you soon.
+
+Best Regards.
+
+
+
+
+
+-------------------------- Ionic
+
+Hi 👋. How are you?
+
+Now I am located in China and I am looking for full time job by remote position.
+
+I have done many ionic mobile apps for 6 years.
+I have experience in followings:
+• ionic V1/2/3/4/5/6, ionic-native, ionic capacitor, ionic-react, ionic-angular and cordova plugins
+• native feature : geo-location, local storage, camera/audio feature,  filesystem...
+• angularfire, realtime chat, push notification In-app-purchase, twilio api, payment gateway, push notification, social media account...
+
+Please kindly check ionic apps and my git repository.
+Parkmobile Parking App
+https://apps.apple.com/us/app/premier-parking/id1035873444
+https://play.google.com/store/apps/details?id=net.sharewire.premierparking&hl=en_US
+
+Plan Employee Scheduling App
+https://apps.apple.com/us/app/planday-employee-scheduling/id518598166
+https://play.google.com/store/apps/details?id=com.planday.ninetofiveapp&hl=en_US
+
+https://github.com/DavidonRails/bfc_ionic
+https://github.com/DavidonRails/EMWS
+https://github.com/DavidonRails/markate_git
+
+I can demonstrate my high skill through an interview.
+I am always available for an interview at any time, support full service.
+My motto is high speed, high quality, good responsive.
+I hope to hearing from you soon.
+
+Best Regards.
+
+==============================================================================
+
+3D invision.
+http://goat.invision3d.org/
+http://bookcase.chromeexperiments.com/
+https://www.kitchenplanner.net/
+
+_____________________Craft CMS______________
+https://www.brandishinsights.com/
+
+_____________________
+News site:
+https://www.aero-mag.com
+https://aviationweek.com
+
+News scrapping Example:
+https://aeroify.000webhostapp.com/
+
+_________________________
+PWA
+https://www.jibjab.com/
+https://www.shazam.com/
+https://www.datememe.com/
+
+
+Node Js :
+========
+
+https://www.sixthcontinent.com
+http://www.trakit.me/ 
+https://www.youthdimension.org.au/ 
+http://www.bullsandarrows.com/ 
+and more ...
+
+
+BITCOIN Betting Game :
+=======================
+https://www.caxaron.com/
+https://www.bustabit.com/
+
+React Web Site:
+===============
+https://www.stanza.co/
+https://www.boomset.com/
+https://www.planday.com/
+https://sothebyshomes.com/  (Real Estate)
+and more ...
+
+React Native Mobile :
+=====================
+Travel Booking App
+https://itunes.apple.com/us/app/wheels-up/id956615077?mt=8
+https://play.google.com/store/apps/details?id=com.wheelsup.app.app
+
+Parkmobile Parking App
+https://apps.apple.com/us/app/premier-parking/id1035873444
+https://play.google.com/store/apps/details?id=net.sharewire.premierparking
+
+Taxify App
+https://apps.apple.com/us/app/bolt-taxify/id675033630
+https://play.google.com/store/apps/details?id=ee.mtakso.client
+
+Entertainment and Streaming video broadcast app
+https://help.kanopy.com/hc/en-us
+https://itunes.apple.com/us/app/kanopy/id1205614510?mt=8
+https://play.google.com/store/apps/details?id=com.kanopy
+
+Data Driven Promotions Management Solution
+https://www.promojuiceapp.com/
+https://itunes.apple.com/us/app/promojuice/id1227622526?mt=8
+https://play.google.com/store/apps/details?id=com.promojuice.promojuice
+
+Real Estate referrals for Agents app
+https://itunes.apple.com/us/app/agentzo/id1258207426?mt=8
+
+Meet Preneur:
+https://apps.apple.com/us/app/meetpreneur/id1439798048
+https://play.google.com/store/apps/details?id=com.meetpreneur&hl=en_US
+
+NFC Decoder
+https://www.bluebite.com/decode
+https://play.google.com/store/apps/details?id=com.bluebite.decode&hl=en_US
+https://apps.apple.com/us/app/decode-nfc-scanner/id964303354
+
+Waze Driver Navigation App
+https://play.google.com/store/apps/details?id=com.waze
+https://apps.apple.com/app/apple-store/id323229106
+
+Laravel+React / Angular:
+-------------------
+Food book and blog
+https://www.kitchenatcobblehill.com/
+https://docfernie.ch/
+
+Online healthcare
+https://www.yogaglo.com 
+https://foodrazor.com
+
+Vacation booking
+https://www.travelzoo.com/
+
+Energy Loan Network
+http://www.greenconception.com/
+
+Real estate
+https://www.beycome.com/
+https://www.mylndr.com/
+
+eGift Card with cryptocurenccy coin
+http://www.thenodemaster.com/
+
+
+WP :
+-------------------
+https://www.ekogrid.com
+https://www.countabout.com
+https://www.verifiedfirst.com
+https://www.lyoness.com/eu
+https://www.goodhire.com
+http://www.yeticycles.com
+http://massinc.org
+https://mediabistro.com
+https://expresshomebuyers.com  (Realestate)
+https://certain.com
+https://bombyxplm.com
+https://www.thelabz.com
+https://crowdskills.com
+https://relezant.com
+http://tip7.com
+https://beauty-box.netlify.com
+
+Best Showcase(responsive)
+-------------------
+https://velow.bike/
+http://phillipsdale.com/
+https://www.ekogrid.com/
+https://www.verifiedfirst.com/
+https://www.glo.com/
+
+
+WP+React
+1. Upscale Living Magazine: http://upscalelivingmag.com
+2. Stagetune: http://stagetune.co
+3. Scuderia: http://www.ctscuderia.com/en
+4. Universal Institute: http://www.uit.edu.au
+5. A Class Fencing: http://www.aclassfencing.net.au
+
+Landing Page :
+-------------------
+https://velow.bike
+http://phillipsdale.com
+
+<GENERAL WEB SITE>
+===================
+https://www.kitchenatcobblehill.com
+https://www.yogaglo.com
+https://www.travelzoo.com
+
+
+iOS APPs :
+============================
+https://itunes.apple.com/us/app/tikepam/id1326854631?mt=8
+https://itunes.apple.com/us/app/sol-search.-search-better./id972249538?mt=8
+https://itunes.apple.com/in/app/maki%C2%ADrestaurants/id545763446?mt=8
+https://itunes.apple.com/us/app/atoz-services/id962245569?mt=8
+https://itunes.apple.com/us/app/pussycat-london/id1072198071?mt=8
+https://itunes.apple.com/gb/app/loyalty-wallet-incredible-rewards-at-fingertips/id1218696405?mt=8
+https://itunes.apple.com/us/app/sos-sa%C3%BAde/id1105183644?mt=8
+
+
+--------Wordpress and WooCommerce
+
+Hi, I am that one. I have lived with Wordpress and Woocommerce for 5 years.
+I have mastered in using various themes and plugins and can edit the site using PHP/JAVASCRIPT/HTML/CSS.
+I have rich experience in Wix, Divi, Flatsome, WPBakery, Elementor Pro, Visual Composer UX Builder and many plugins for Mailchimp, Google Maps API, Store locator, Kajabi, Page Speed Optimization, Yoast SEO friendly pages, Landing Page, Checkout, Shipping, Product, Membership, etc.
+And I am strong at building the native WordPress Mobile App with AppMaker Plugin.
+I can deliver the pixel perfect result with mobile and cross-browser responsive on time and budget.
+Please kindly check my past wordpress work:
+https://ruckusmarketing.com
+https://www.badruttspalace.com
+https://bluefountainmedia.com
+https://useallfive.com
+I'm ready to work on this project immediately. Regards. Sanjay
+
+----------------------Web----------------------
+Hi,
+I can deliver the pixel perfect result with mobile and cross-browser responsive with user friendly experience.
+I am a front end developer with a lot’s of experience in Bootstrap, Html, CSS/LESS/SASS, Material UI, Semantic UI skills with design good eye.
+So Reading your job posting in detail, I think, I am very confident in your project. 
+I am ready to start work immediately.
+Looking forward to hearing from you soon. Best Regards.
+
+Please kindly check my past works:
+https://ruckusmarketing.com
+https://www.badruttspalace.com
+https://bluefountainmedia.com
+https://useallfive.com
+
+
+-----------------------------------Angular
+Hi. Thanks for connecting.
+I am an experienced full-stack developer, who feels comfortable with both back-end and front-end.
+With my comprehensive freelancing experience I strongly believe that I could help you achieve success in your project.
+I have a great experience in:
+- HTML5/CSS3, SASS/SCSS, Twitter Bootstrap (3, 4), Responsive design (Flexbox, Material design) 
+- Angular JS, Angular Material, React JS, Socket.io 
+- Ionic, Ionic Angular PWA
+- GraphQL, Apollo - ES next, Babel, Typescript, EsLint, TsLint 
+- Webpack/Gulp, Yarn/NPM - Strong REST API experience, MicroServices architecture (have written custom REST API with Node.js+Express) 
+- Mongoose, Objection.js, Sequelize 
+- Extensive experience working with third party APIs 
+- Experience with TDD and BDD (Jest, Enzyme, Mocha, Chai, Unit, integration tests on server side, Client side tests with jest and enzyme) 
+- Strong experience with GIT, Agile development (Scrum) 
+- Nginx, Heroku, Docker, AWS (Elastic Beanstalk) 
+
+Please meet my recent projects with Angular: 
+
+http://www.zoomsphere.com/ 
+I have been working in this recently to upgrate it on Angular2 and Node JS, it's SMM tool and I participated in both front-end and back-end development. 
+
+Lift & Squat Project: (https://www.liftandsquat.de/) 
+I have worked on this big project more than one year already. 
+It's AngularJS/node.js application based on Rest APi concept. 
+The system consists of the 3 sides: Rest API, Admin Panel (CMS), Frontend websites (more then one). 
+I have done the whole work of admin panel side and partly worked on Rest API side. 
+I can tell more about this position if needs, as I have used a lot of technologies there. 
+
+WebinarIgnition Project: (https://webinarignition.com/) 
+Project is based on AngularJS/Node.js using Sails framework. One of my works in this project was integration of 5 autoresponder APIs like Mailchimp, Aweber, InfusionSoft, etc. 
+
+Sportium Project: (http://sportium.es) 
+I wrote separate application for http://sportium.es website (but not sure where and how my client was going to use :)), I have written my custom node.js Rest API for this and also wrote frontend part with AngularJS/Typescript. 
+
+I enjoy building all kinds of websites with a special love for everything related to AngularJS! 
+I enjoy immersing myself in the codes, solving different problems and reaching good results. 
+Thank you in advance for your time and consideration. 
+I’m looking forward to working with you soon.
+
+
+
+___________________________________Symphony____________________________________
+Hello, PHP is my bread and butter so would be great to discuss your needs in greater detail and hopefully work together! 
+
+I am familiar with Symfony framework.
+
+Here ares some my works.
+
+https://homegrown.co.uk/
+https://www.blablacar.com/
+
+I am available to hear your vision now.
+
+Sincerely,
+Sanjay
+_________________________Squarespace________________________________
+Hi, I am Squarespace expert. I have rich experience in Theme customize and plugin in Squarespace.
+I can deliver the pixel perfect result with mobile and cross-browser responsive with user friendly experience.
+I am a front end developer with a lot’s of experience in Bootstrap, Html, CSS/LESS/SASS, Material UI, Semantic UI skills with design good eye.
+So Reading your job posting in detail, I think, I am very confident in your project.
+I am ready to start work immediately.
+Looking forward to hearing from you soon. Best Regards.
+
+Please kindly check my Squarespace works:
+https://www.kitchenatcobblehill.com/
+https://www.yogaglo.com
+https://www.travelzoo.com/
+
+-------------------------Magento
+Hi,
+I have 5+ years experience in Magento development and working in Magento 2 since it's BETA release. I am expert and Magento Certified Developer PLUS to handle any type of maintenance and bug fixing.
+I can build any service in Magento 1.x/2.x. 
+Below all service I am providing in Magento 2. 
+
+- Magento Extension Development
+- Custom Magento Development
+- Modules Development and Customisation 
+- Custom Magento Website Design
+- Template Development and Integration
+- Website Speed Optimisation
+- Web Store Maintenance  
+- Any Kind of Bug Fix
+
+I can help your megento project with high quality.
+Now I am ready for your project. Regards. Sanjay
+
+------------------------------------Webflow
+Hi, I have lived with webflow for 3 years. I am very familiar with webflow website builder and I have done many web template on webflow.
+I can deliver the pixel perfect result with mobile and cross-browser responsive on time and budget.
+I am a front end developer with a lot’s of experience in Bootstrap, Html, CSS/LESS/SASS, Material UI, Semantic UI skills with design good eye.
+So Reading your job posting in detail, I think, I am very confident in your project.
+I am ready to start work immediately.
+Looking forward to hearing from you soon. Best Regards.
+
+Please kindly check my webflow works:
+https://ruckusmarketing.com
+https://www.badruttspalace.com
+https://bluefountainmedia.com
+https://useallfive.com
+
+---------------------------Weebly
+Hi, I have lived with weebly for 3 years. I am very familiar with weebly website builder, and I have done many web template on weebly.
+I can deliver the pixel perfect result with mobile and cross-browser responsive on time and budget.
+I am a front end developer with a lot’s of experience in Bootstrap, Html, CSS/LESS/SASS, Material UI, Semantic UI skills with design good eye.
+So Reading your job posting in detail, I think, I am very confident in your project.
+I am ready to start work immediately.
+Looking forward to hearing from you soon. Best Regards.
+
+Please kindly check my weebly works:
+https://ruckusmarketing.com
+https://www.badruttspalace.com
+https://bluefountainmedia.com
+https://useallfive.com
+
+----------e-commmerce
+Hi, I am that one. I have lived with eCommerce Web site for 5 years.
+I have built many e-commerce websites, especially using WooCommerce, Shopify, BigCommerce, Magento 2, Prestashop.
+I'm very interested in this project because it's an E-commerce job.
+I've read your job posting very carefully, and I feel this is meant for me.
+I'd like to discuss more details.
+Thank you very much.
+Best Regards, Sanjay
+
+
+
+-----------Hubspot
+Hi, I  have lived with Hubspot for 5 years. I have done many apps with Hubspot.
+I can provide you an end-to-end service for inbound marketing. The end to end service includes
+
+Helping with Online Marketing Strategy and Planning
+Website and Sales Funnel Design
+Hubspot set up and all required configuration
+Creating landing pages
+Creating forms and lead magnets
+Copywriting (email, website, landing pages)
+Designing emails in HTML
+Creating automated marketing and sales campaigns
+Setting up paid marketing campaigns on Google and Facebook
+Sending out email campaigns on a periodic basis and monitoring progress
+A/B testing the campaigns, emails, landing pages, etc.
+Making required changes based on the results of A/B testing and monitoring
+
+I'm ready to work on this project immediately.
+I look forward to working with you for long term relationship.
+Best Regards, Sanjay
+
+-----------Unity
+Hi,
+I have experience in working with Unity to build iOS/Android/Windows Desktop app.
+Do you want to update it? or upload it to your website so that the users can download it?
+I can do both of them.
+For more details, please contact me anytime.
+I'm ready to work full-time for your project.
+Thank you,
+Sanjay
+
+-----------------------------SEO
+Do you have SEO skills. Can you provide any success stories?
+I have experienced some ways to improve SEO of wordpress site.
+I have used sitemap generator, Platinum SEO Pack plugin to optimize pages and post content for SEO.
+
+Thank you for your consideration.
+
+-----------------------------Zoho CRM
+Hi, I am very interested in your ZOHO CRM project.
+I have rich experience in ZOHO Applications for last 3 years.
+I work on variety of Zoho projects week in week out!
+My expertise: 
+• Migration from Other CRMs to Zoho CRM 
+• Initial Zoho CRM Setup 
+• Zoho Architecture (Set up 100+ accounts) 
+• Zoho Customization 
+• Business Analysis and Data Modeling into Zoho 
+• Sales Funnel Flow Design 
+• Data Migration to Zoho 
+• Zoho Subscription 
+I want to collaborate your project with my rich experience.
+I am ready to start your project now.
+Thanks. Sanjay
+
+----------------------------Big Commerce
+Hi. I am very interested in your bigcommerce Project.
+I am strong at storefront customize, landing page layout, product/checkout customize, stencil app customize in Stencil Theme.
+I am sure to delivery perfect result. Ready to start your project now. Thanks.
+
+
+----------------------------ROR
+Hi, I have strong ROR development experience.
+I have advanced skills with leading-edge web programming tools complemented by proven ability to assimilate and rapidly utilize emerging technology.
+In ROR development, I am profession about solid architecture design, data structures knowledge with experience developing comprehensive algorithms and data-processing logic.
+And I love to build agile web development using TDD with Ruby/Rails.
+Over the last several years I have developed a sufficient number of sites using Ruby on Rails, Rspec, HAML, MySQL, PostgreSQL, MongoDB, JavaScript, jQuery, BootStrap, Vue.js, AngularJS, ReactJS with Responsive Web Design.
+I will build quality software using test-driven development(TDD) in rails for easy to understand, maintain and extention.
+Please feel free to discuss project detail with me.
+I will look forward to hear from you soon.
+
+Best Regards.
+
+--------------------------Java Backend
+I have more than 8 years of experience in Java based development. 
+I have also experience in linux, aws ec2, rds, aurora, dynamodb, elastic search etc.. 
+Feel free to contact me if you have any requirements for web application in Java.
+
+Java Server-Side Development
+• Strong Java, Kotlin Experience in Server-side Development
+• JHipster, Spring Boot Experience with Angular, React for Java-based web applications and microservices.
+• Spring Framework Experience for  Java applications, web services, and microservices.
+• Struts MVC framework for enterprise-level Java applications with many Structs Plugins
+• Vert.x  Framework Experience with Java, Javascript, Kotlin language
+• Deplying Kotlin Server-side Applications on Heroku, AWS Lambda functions, GCP, Ktor, App Engine
+
+Mobile Development
+• Swift, Objective-C, Android, Java, Kotlin - Native Mobile Development
+• React Native, Ionic, Flutter - Cross platform Mobile Development
+
+
+---------------------------Magento----------------------------------
+Hi, I am an expert Magento Developer.  My main Focus on Magento or magento 2.  
+I have the highest standards of Magento marketplace with more than 10   years experience. I am doing Magento projects of any complexity and I can do any customized work. I have expertise in Creating the theme, Creating Magento Extension, Customization in Themes and Extensions, Upgrading, Migrating, Importing product with Script, etc.
+
+My Magento Services include but not limited to: 
+
+- Magento 2 Development 
+- Simple And Complex Magento Store Development 
+- Magento 2 Theme development 
+- Magento Upgrade into Magento 2
+- Magento Optimization
+- Web Design for Magento Websites
+- Bulk data import into Magento 
+- Magento Support and Maintenance 
+
+Please feel free to reach out me for your project success. Regards. Sanjay
+
+----------------------Angel.co
+Hi, A full stack developer with more than 10 years experience in website and mobile development, I am looking for full time REMOTE ONLINE JOBs.
+I always focus on code quality over result of quantity, I have strong knowledge of web  and mobile development. 
+
+My skills are followings: 
+• Mobile: Object-C, Swift, Java, Kotlin, React Native, Ionic, Flutter
+• Front-end: Javascript, Angular.js, React.js, Vue.js, jQuery, JSON, XML, HTML5, CSS3 
+• Back-end: Node.js, PHP (Laravel, Codeignitor), Ruby on Rails, Java, Spring boot.
+• Databases: SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, Redis) 
+• CMS & Ecommerce: Wordpress, WooCommerce, BigCommmerce, Shopify, Drupal, SuiteCRM, ZohoCRM 
+• Source Control: Git, Github, Gitlab, Bitbucket 
+• Page Speed Optimization, SEO, AWS, DevOps, Docker, Heroku, GCP 
+
+If you want to discuss more, you can reach me any time. Thanks.
+
+
+_______________________Kajabi______________________
+Hi,  I am here to help you ith New Kajabi site.
+I am a liquid coder and I have bult many kajabi sites for clients.
+Any New Kajabi landing pages.
+Any blog posts.
+Site Homepage.
+Customize anywhere in New Kajabi
+
+Please feel free to call me for your Kajabi project.
+Regards. Sanjay
+
+
+_____________________Unity 3D_____________________
+Hi. Have a fine day.			
+			
+Over 5+ years, I have developed  Unity 2D/3D game development.			
+			
+I was focused the endless running 2D/3D Game(Templerun, Subway Style Game), Simulator Game on mobile and web browser.			
+			
+I have expertise about Physics engine, Unity Scripting, Multiplayer and Networking, Animation and UI,  pro unity engine in Optimize Character, Unity pathfinding, rendering, shadow and Unity Services.			
+			
+I have experience about AdmobColony_Post, AdMob2.6(iOS/Android), Flurry2.2, GameCenter2.9, GoogleCenter2.9, iTween unity package in Unity.			
+			
+I am strong at Unity script with C#, javascript.			
+
+And Now I am focus to build Unity 3D VR & AR Game development.
+
+https://play.google.com/store/apps/details?id=com.KS.MJ_POKER
+https://apps.apple.com/us/app/city-run-game-3d/id853662228
+https://itunes.apple.com/us/app/fluentworlds-learn-english/id1047012845?mt=8
+
+Unity 3D VR Game(Drunkn Bar Fight)
+https://store.steampowered.com/app/528550/Drunkn_Bar_Fight/
+https://www.oculus.com/experiences/rift/1207497572657758/?locale=en_US
+
+I have all required skills and experience for your project.	
+	
+I can sure to deliver qualified result with high quality and I want long term relationship.	
+	
+Please feel free to reach out me for your project.	
+	
+Best Regards.
+
+
+
+
+

@@ -1,0 +1,28 @@
+
+
+------------------------------------------------------------------------------------------------------------------
+
+For 13 years I’ve spent programming (8 as primary income) I’ve been cultivating persistence, performance, and a love for challenges, which allows me to consistently deliver complex tasks that others might give up. Of course, programming is always a learning experience and I am to this day doing that.
+
+Now, I have been freelancing for the past 5 years. When it comes to my core fundamentals Blockchain, Mining, developing wallets, exchanges both DEX and CEX, NFT marketplace places and Smart Contract are on the top. Also, I have worked with AWS for 3 years which arms me with excessive dev-ops and server-side security experience. Along with that, I have developed and launched 140+ mobile and web-applications with active userbase to this day.
+
+Beyond this, I lead a team of seasoned blockchain developers of around 40+, who excel in developing all things related to blockchain and Metaverse.
+Tech Stack that I have worked with:
+* Node.Js, Php, Laravel, React, React.js, Electron.Js
+* Solidity, Rust. * ERC20, ERC721, Defi Apps, DEX
+* Python, Django, Django REST framework, Flask
+* PostgreSQL, MySQL, Redis, MongoDB
+* Docker, Docker Compose, CI/CD configuration
+* Automation and Scraping: Scrapy, Selenium, requests, BeautifulSoup, etc * Core web: XML, JSON, HTML, CSS, JavaScript.
+* WordPress, Shopify, WIX
+* Google Cloud, AWS, Azure
+* Git, GitLab, Bitbucket, Heroku
+Chains that I have fully Grasped:
+Bitcoin | Ethereum | Solana | XRPL | Stellar | Hyperledger and | Corda {​​​and safe to say I can work on almost all the chains}
+With AI/ML, I have worked with several algorithms Decision Tree, KNN, Random Forest Algorithm, and Linear Regression. On top of that, I have been following OpenAI closely and looking to actively start working on my own AI projects.
+
+While I won't say I am the best or I can do everything, what I can assure you is that I can be the WIZARD that can resolve all of your issues after doing RND and I am up for hour-long discussions to make sure I understand your requirements perfectly.
+
+I have all hands on deck at this point! So let's discuss this further.
+
+------------------------------------------------------------------------------------------------------------------

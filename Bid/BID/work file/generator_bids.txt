@@ -1,0 +1,119 @@
+Hi
+
+I read your project description carefully and I believe my skills and expertise perfectly align with your requirements. As a professional web and app developer with extensive technical knowledge and expertise, I am confident in creating a website that meets all your preferences and requirements.
+
+My proposal includes building a website that incorporates membership plans, a video wizard guide, and a short practice course in every option, which can be recorded by you. Additionally, I can provide all the necessary tools required to create a successful website that fulfills your needs. I will also ensure that the site has an outstanding landing page, a chat-bot, and a chat-with-staff option, all in one chat box.
+
+Regarding communication, I am fluent in English and am willing to talk with you on Zoom any time you need. I will build the website and app only after it has been discussed with you and you have given approval. Furthermore, I will answer any questions you may have during the development process, and keep you informed of any changes or developments.
+
+I would also like to say that I am an understanding and hard-working developer who enjoys being creative and offering suggestions and ideas. I am dedicated to providing quality work and commitment towards my work. I am also interested in potentially becoming your employee for future projects. I take this job seriously, as it is an opportunity for full-time employment.
+
+Finally, I will ensure that the website and app are fully under your control, providing you with access to the admin panel that allows you to add more stuff with time yourself.
+
+In conclusion, I am confident that I will be the perfect fit for your project, and I look forward to hearing from you. If chosen, I will work tirelessly to deliver the best quality website and app. Thank you for considering my proposal.
+
+Best Regards,
+
+Yide Ding
+
+
+-----------------------------------------
+
+Dear INVSTY team,
+
+I am excited to submit my proposal for the position of Node.js Developer. With over five years of experience working as a developer, I believe I have the skills and expertise required to help your team achieve your objectives and develop innovative solutions in the real estate industry.
+
+My previous experience has equipped me well for the role, as I have proven understanding and proficiency in Node.js development and working with databases like MySQL and MongoDB. I am also familiar with cloud services like AWS and Git, which will be useful in ensuring scalability, performance, and security in the web applications we develop.
+
+As a problem-solver, I have always enjoyed seeking creative solutions and overcoming technical challenges, making me perfect for the role. I have also worked closely with front-end developers and product team members, integrating solutions with other applications and platforms to achieve functional and cohesive codes that enhance the user experience.
+
+My degree in Computer Science, coupled with my strong analytical and problem-solving skills, has positioned me well to understand the technicalities of web development and to produce top-quality solutions that meet your company's needs.
+
+Regarding Chatbots and AI tools, I have some experience with GPT-3, and I am always eager to learn and apply new technologies in my work.
+
+I am open to remote work, and I am confident that I can work effectively while delivering results, ensuring that I meet all project milestones and deadlines. I understand the importance of confidentiality when working with clients and peers, and I am open to signing the NDA.
+
+Thank you for considering my proposal. I have attached my resume, portfolio and brief cover letter highlighting my relevant experience. I am looking forward to hearing from you soon.
+
+Best regards,
+
+Yide Ding
+
+-------------------------------------------------------------------
+
+Hi,
+
+I am excited to hear that you are looking for an expert in Make.com to connect Fireflies.ai meeting notes to Gmail/Outreach CRM/ClickUp. I am confident that I can help you automate the process of drafting a follow-up email, updating the contact in Outreach, and creating tasks in ClickUp.
+
+As a seasoned Make.com expert with vast experience in developing customized solutions that streamline operations, I can offer you my top-notch expertise and services. I will be able to integrate Fireflies.ai and Make.com seamlessly, ensuring that the system's automation process works efficiently and effectively.
+
+Besides, I have in-depth knowledge of ChatGPT, which will be useful in helping summarize points further and write the emails as required. I am confident that I can get the ChatGPT solution up and running shortly, providing you with the ultimate solution that will optimize your business operations.
+
+I am excited about the prospects of working with you on your ongoing and upcoming automations. I am confident that I can help you achieve your objectives and take your business to the next level.
+
+Thank you for your consideration, and I look forward to hearing from you.
+
+Best regards,
+
+Yide Ding
+-----------------------------------------------------------------------
+Hello,
+
+I am excited to submit my proposal for the expert in React JS role you are looking for to build a page that will collect and save the website's important parts, along with various changes and fixes you have mentioned. I am confident that my experience with React JS and other front-end development languages can make a significant contribution to your project's success.
+
+I understand that you require a React JS expert to build a page that will save the three main sections of the website. I will use my expertise in React JS to ensure it is a smooth and user-friendly experience. I will also link the page with related web pages to ensure ease of access.
+
+Apart from creating the page, I am also confident in handling the other website changes you need: side drawer design and section modifications, top navigation bar (hide/show and change icons, dropdown menu, fix issues, add links), footer redesign, and dark mode. Additionally, I will configure and design a drop-down menu for searching in NavBar.
+
+I will also modify the news page by implementing pagination. Aside from these changes, I will correct any broken links in the main page and handle errors that may arise during the project. Finally, I will carry out minor fixes to make the website more secure, user-friendly, and attractive.
+
+I understand the timeframe outlined in the project description; I assure you that, with my technical expertise and experience, I can complete all these tasks within six days and maintain the necessary standards throughout the process. Also, I agree to your maintenance agreement for 3-4 months to ensure that everything runs smoothly.
+
+I am eager to discuss your project in more detail. Please get in touch with me so we can have a conversation about how I can help you bring your vision to reality.
+
+Thank you for your consideration.
+
+Sincerely,
+
+Yide Ding
+------------------------------------------------------------------------------------------
+
+
+Dear Hiring Manager,
+
+I am excited to submit my proposal for the Symfony 6 developer position to build a Multi-Tenant Multi-DB SaaS Platform Stub. Having worked with Symfony for several years, I am confident in my ability to create a robust platform that meets your requirements.
+
+As you have mentioned, each tenant must have their own isolated databases and access the system via a subdomain, and I am familiar with creating such systems. I have worked on similar projects in the past, and I am comfortable with working with multiple databases.
+
+Regarding the platform, I will ensure that centralized configuration of clients is possible via the root domain, and within each client section, there should also be roles capabilities for admin users. My experience with Symfony includes creating such systems, and I am familiar with all the necessary components.
+
+I have extensive experience with coding using PSR standards and I prefer Test Driven Development (TDD) in my projects. You can depend on me to follow strict coding standards and provide high-quality, maintainable, and clean code.
+
+I appreciate the preference for well-maintained open-source solutions, and I will ensure that the platform I develop utilizes the most up-to-date and secure packages and frameworks.
+
+I am committed to agile workflows and will work with you to ensure high visibility and seamless workflow throughout the project. I welcome any questions you may have, and I look forward to discussing your project further.
+
+Thank you for considering my proposal.
+
+Best regards,
+Yide Ding
+
+-------------------------------------------------------------------------------------------------------------
+
+Dear Hiring Manager,
+
+I am excited to apply for the Figma expert position that you have posted. I have extensive knowledge in Figma and can easily create a prototype of your design using the images that you have in AI.
+
+I have carefully reviewed the given link and I am confident in my abilities to create a clear and visually appealing prototype that perfectly captures the essence of your design. My experience and proficiency in Figma will ensure that the project is completed to the highest standard and meets your requirements exactly.
+
+I have a great eye for design and pay attention to detail. I am confident that I can deliver a prototype that reflects your original design beautifully. Additionally, I am willing to make any revisions necessary to ensure that your goals and expectations are achieved.
+
+I look forward to discussing the project more with you. If you have any questions or concerns, I am available any time to chat.
+
+Thank you for your time and consideration.
+
+Best Regards,
+
+Yide Ding
+
+----------------------------------------------------------------------------------------------------------

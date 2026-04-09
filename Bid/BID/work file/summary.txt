@@ -1,0 +1,143 @@
+-----------------------------------------------------------------Full stack developer-------------------------------------------------------------------------------------------------
+Hi, How do you do?
+I am very delightful to have a chance showing my skills and simple career
+With a passion for delivering innovative solutions that meet client requirements, I have successfully tackled even the most challenging projects. Over the past 10 years, I have delivered over a thousand successful projects to organizations in the enterprise and medium tiers.
+
+Frontend: HTML, CSS, JavaScript, Angular, React js
+Backend: Node js, Core Java, J2EE (Advance java), Spring boot (Framework)
+Database: Mysql and MongoDB
+Web Application: Frontend: HTML, CSS, JavaScript, Angular, React js | Backend: Java (J2EE, Spring boot), Node js
+Mobile Application: Android (using Java), React Native (Android and IOS)
+Desktop Applications: Java (JavaFX, AWT, and SWING)
+
+I always keep on this motto in my whole life, "Credit is my whole life"
+I am highly flexible and always strive to build long-term relationships by providing top-notch support and delivering the highest quality work. Let's have a conversation and bring your ideas to life!
+Thank you for your consideration.
+
+-------------------------------------
+Hi, Welcome!
+In terms of project or task giving me from client, over 10 years I have never failed and will never.
+With a degree in Information and Network Technology and several certifications held, I am more than qualified to handle whatever IT task you may need! I have extensive technical knowledge and hands on expertise in:
+
+-- Web Development (PHP, Laravel, HTML, CSS, React, Vue, JavaScript, jQuery, Python)
+-- Mobile Development (Flutter, React Native, Object-C, Java, Kotlin)
+-- Desktop App Development (Elctron)
+-- Network & Systems Administration (LAN/WAN/WLAN, VPN, DNS, DHCP, Active Directory, etc.)
+-- Desktop Administration (Windows, Mac OS, Ubuntu and various other Linux distros)
+-- Database Administration (MySQL, MS SQL)
+-- Virtual Infrastructure Administration (VMware ESXI, Hyper-V)
+-- Zoho Certified Developer (Zoho One Flow Designer | Zoho CRM | Zoho Creator)
+-- AI Integration ( AI | ML | OpenAI | Power Automate | Integration )
+...
+
+Feel free to reach out to me to discuss questions you may have. I am looking forward to working with you.
+Lucky for you
+Thanks
+------------------------------------
+I'm a versatile full-stack developer with a strong emphasis on front-end and back-end technologies. With expertise in React, Angular, and Vue, I've had the pleasure of creating user-friendly and interactive web applications that provide exceptional user experiences. My passion for crafting clean, efficient, and responsive user interfaces drives me to stay up-to-date with the latest front-end trends and best practices.
+
+In addition to my front-end skills, I possess a well-rounded knowledge of back-end technologies such as Django, ASP .NET, Node.js, and Laravel. This comprehensive skill set allows me to seamlessly integrate front-end and back-end components, ensuring the entire application runs smoothly.
+
+Furthermore, my proficiency in mobile development using Flutter enables me to extend your project's reach to the mobile platform, reaching a wider audience and delivering consistent functionality across devices.
+
+Lastly, my expertise in OpenCV and AI adds another layer to my skill set, allowing me to work on projects that involve computer vision and artificial intelligence, whether it's for image processing, machine learning, or data analysis.
+
+Totally, I possessive tech of mine like:
+
+Front End:
+
+Basics:
+- HTML5, SCSS (Styling), TypeScript, React.js (17.2), JavaScript (ES5, ES6)
+Advance:
+- Redux, Redux-thunk, Jwt, Axios (with interceptors), React Router (v6), Jest (Unit Test [code Coverage])
+Surplus:
+- Webpack (v5), Babel, StoryBook, Eslint, SonarQube
+- React Micro frontend architecture (WebPack ModuleFederationPlugin)
+- NPM React Package
+
+Back End:
+- Laravel, Laravel JWT, PHP MVC, Codeigniter, Magento, Express.js
+- Zoho CRM, Prefix CRM, NPM, Node.js
+- PHP, SOA, Rest Full
+
+Databases:
+- CouchDB, ETL, MariaDB
+- MongoDB, MySQL
+- NoSQL, ORM,
+- PL/SQL, PostgreSQL
+- Local Storage
+
+I'm enthusiastic about collaborating on challenging projects that push the boundaries of web and mobile development. Let's discuss how I can contribute to your next project and help turn your vision into a reality.
+
+Thank you for considering me as a potential member of your team.
+
+Best regards.
+-------------------------------------------------------------------------
+Hi, 
+I am very honor to introduce myself and have a chance to develop my career through your thankful glance.
+These are my skills:
+✨ Front End Development
+- Have some experience in UI/UX Design using Adobe XD, Figma, Sketch, Adobe Photoshop.
+- Very good experience in developing frontend using React including several projects like e-commerce, financial, education, customer management, real estate, Blockchain area.
+- Professional Next.js developer having 4 years of experience with T3 stack, GraphQL, Planet Scale, Hygraph, NextAuth, Stripe integration and so on.
+- Rapid growing Vue.js developer having Vue3, Vuex, Vuetify, Nuxt.js and Quasar framework.
+- React animation expert, some knowledge of three.js, chart implemention using D3.js and several chart libraries...
+
+✨ Back End Development
+- Professional in Node.js especially Express and Nest.js, familiar with Restful API and GraphQL, integrated several third party API like Calendly API, Zoom SDK, Coinbase API, Slack Volt API, SOAP API, Swell API and so on.
+- Laravel Expert having modern technology like Laravel Mix, Laracast, Livewire, Laravel Nova, Inertia and so on.
+- Some experience in Python and Fast API, NumPy, Pandas, and SciPy.
+
+✨ Blockchain Area
+- Cryptocurrency & Altcoin creation
+- Smart Contract Development using Solidity and Rust
+- Token creation on ETH, BSC, MATIC, and other EVM chains
+- NFT creation on Ethereum, Polygon, Solana, and other chains
+- Decentralized exchanges (Pancake swap, Uniswap, etc)
+- Yield farms
+- Token staking, rewards tracking dashboards
+- Cryptocurrency node & master node installation
+- Cryptocurrency mining pool installation
+- Web3.js, ether.js, usedApp, Wagmi
+
+✨ Chrome extension development & Scrapping
+- Have experience in developing Chrome extension which is AI-generated bulk messaging tool for recruiters on LinkedIn using GPT-4 model
+- Scrapping expert using Puppeteer, Browserless API, Selenium
+As I am a proactive and enthusiastic full stack developer with 8+ years of professional experience, I have been providing clients with websites & applications and hybrid mobile applications with a modern design that are running fast and secure.
+I focus on simplifying the user experience & interface and delivering a clean and modern design aesthetic that highlights your objectives.
+I excel in converting Figma/XD designs into a seamlessly animated landing page using React.js. Besides, I am very familiar with SSR/SSG frameworks such as Next.js and Gatsby which makes the React.js project SEO-friendly.
+I develop and maintain fully custom websites and Shopify, including both the front and back end programming, graphic design, UI/UX, responsive web design for both desktop and mobile, database setup and integration, and custom CMS.
+Also, I deliver the clean and DRY code which will optimize your project.
+I always bring a comprehensive approach to developing your project. I take the time to listen to your goals and needs and then tailor my approach to what is best for your business.
+I am ready to contribute to your great idea. Let's your idea into our real life, marvelous!
+Thank you for your consideration.
+------------------------------------------------
+
+Welcome!
+
+My motto is to provide high-quality work dedicated to work and client satisfaction delivered before client deadline.
+
+I'm a seasoned professional with over 7+ years of experience in the world of web development. I have a strong foundation in a wide range of technologies and a proven track record of delivering high-quality solutions to clients worldwide.
+
+My Skills Are:
+ -Node.js
+ -Vue.js & Nuxt.js
+ -Express.js
+ -Strapi.js
+ -Angular
+ -DB (MSSQL, MySQL, Mongo , Firebase, PG)
+ -WordPress (Customization, theme & Plugin developement)
+
+Why I am so available:
+ -Proven track record in diverse industries.
+ -Reliable, on-time project delivery.
+ -Collaborative and communicative.
+ -Quality-driven development.
+ -Stay updated with the latest tech trends.
+
+Let's discuss your project and bring your ideas to life.
+Please feel free to connect with me.
+Thank you for your consideration.
+
+
+

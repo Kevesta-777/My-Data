@@ -1,0 +1,70 @@
+<> Full stack Developer
+- Node.js
+- React JS
+- JavaScript
+- JQuery
+- MySQL
+- MongoDB
+- HTML5
+- CSS3
+- PHP (any framework and CMS)
+
+
+
+
+Frontend: HTML, CSS, JavaScript, Angular, React js
+Backend: Node js, Core Java, J2EE (Advance java), Spring boot (Framework)
+Database: Mysql and MongoDB
+Web Application: Frontend: HTML, CSS, JavaScript, Angular, React js | Backend: Java (J2EE, Spring boot), Node js
+Mobile Application: Android (using Java), React Native (Android and IOS)
+Desktop Applications: Java (JavaFX, AWT, and SWING)
+
+Front End:
+
+Basics:
+- HTML5, SCSS (Styling), TypeScript, React.js (17.2), JavaScript (ES5, ES6)
+Advance:
+- Redux, Redux-thunk, Jwt, Axios (with interceptors), React Router (v6), Jest (Unit Test [code Coverage])
+Surplus:
+- Webpack (v5), Babel, StoryBook, Eslint, SonarQube
+- React Micro frontend architecture (WebPack ModuleFederationPlugin)
+- NPM React Package
+
+Back End:
+- Laravel, Laravel JWT, PHP MVC, Codeigniter, Magento, Express.js
+- Zoho CRM, Prefix CRM, NPM, Node.js
+- PHP, SOA, Rest Full
+
+Databases:
+- CouchDB, ETL, MariaDB
+- MongoDB, MySQL
+- NoSQL, ORM,
+- PL/SQL, PostgreSQL
+- Local Storage
+
+
+
+
+✅ Frontend (HTML, CSS, JavaScript ES6, Reactjs, Redux , Jquery)
+✅ Responsive Design (Bootstrap ,Tailwind , AJAX , Material UI, Kendo UI)
+✅ Backend ( Python, Django, Flask, API Integration, Django REST APIs)
+✅ Database ( MYSQL, MongoDB, PostgreSQL,SQLITE 3)
+✅ Web Scraping ( BeautifulSoup, Selenium,Scrapy)
+✅ Web Automation ( Selenium webdriver, Zapier ,Playwright)
+✅ AWS (Amazon Web Services)
+✅ WordPress , Elementor , Rank Math SEO
+
+
+
+
+Frontend(HTML, Next.js, CSS, Bootstrap, jQuery)
+JavaScript libraries (Three.js, React.js, Angular, Vue.js, Angular.js)
+JavaScript Backend Framework(Node.js, Express.js)
+PHP Framework(Laravel, Python CodeIgniter, Shopify )
+Database(MySQL, MongoDB, Firebase, PostgreSQL)
+Mobile(React Native, Flutter, Swift)
+
+Frontend- Angular JS, Vue.JS, Tailwind CSS, React Native, HTML, CSS, bootstrap Backend- NodeJS(Express JS), PHP(Laravel, Codeigniter), Python(Django, Flask),Ruby On Rails, 
+Database- MySQL, SQL, MongoDB, Firebase 
+BlockChain- Solidity, Web3, Ethers, ERC20, Hardhat, Truffle, Openzepplin, Chainlink, Tellor,
+

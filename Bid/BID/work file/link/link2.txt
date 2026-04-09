@@ -1,0 +1,56 @@
+WooCommerce
+http://www.firstchoicerenovation.com/
+https://www.prestige-cycles.co.uk/
+https://tellingbeatzz.com/
+
+http://www.mikiyakobayashi.com
+https://www.lmbinteriors.com
+https://www.monikerpartners.com
+https://altamoda.dolcegabbana.com
+https://localadventure.mammut.com
+https://www.supernaturalkitchen.com
+https://www.banditsnyc.com
+https://rotationsplus.com/
+
+⭘ Tech Stack: WordPress, WooCommerce, BLAZE, React JS
+https://greenstoneretail.com/
+
+⭘ Tech Stack: WordPress, WooCommerce, BLAZE, React JS
+https://club-nirvana.com/
+⭘ A web platform which connects commercial real estate borrowers with relevant lenders. RealAtom allows mortgage brokers to close more loans for their clients by extending their personal networks and reaching new lenders, for any type of commercial real estate loan, nationwide.
+https://realatom.com/
+
+⭘ BravoJewelry. The online shop which allow customers picking up and buying jewelry.
+https://bravojewellers.com
+
+https://www.alphonic.in/
+https://joseflegal.com/
+https://promowise.com/
+https://streamnvr.com/
+https://zed.run/
+https://deltadna.com/
+https://opengeekslab.com/
+https://www.interana.com/
+
+https://dashboard.joseflegal.com (Dashboard App)
+https://editor.joseflegal.com (Editor App)
+https://chat.joseflegal.com (Chat App)
+https://api.joseflegal.com (API)
+
+https://wenlambo.one (React, Web3.js)
+https://mcverse.app (React, TypeScript, Web3.js, Ethers.js)
+https://compero.ch (React, Spring Boot)
+
+https://medicostores.com/ - pharma e-commerce platform
+https://medkitdoc.de/ - telemedicine web platform
+https://parsl.co/ - cannabis supply chain platform
+https://partisiablockchain.com/ - l1 blockchain
+
+https://my.visualcv.com/fullstack_interexy_victoria/ (𝐚𝐯𝐚𝐢𝐥𝐚𝐛𝐥𝐞 𝐫𝐢𝐠𝐡𝐭 𝐧𝐨𝐰) full-stack engineer - (React + node.js expertise, healthcare background & experience, great communication & product approach)
+https://my.visualcv.com/frontend_developer_interexy/ (𝐚𝐯𝐚𝐢𝐥𝐚𝐛𝐥𝐞 𝐫𝐢𝐠𝐡𝐭 𝐧𝐨𝐰) frontend engineer - (full-stack experience, great communication, deep tech skills and more)
+https://my.visualcv.com/frontend_developer_iharh_interexy/ (𝐚𝐯𝐚𝐢𝐥𝐚𝐛𝐥𝐞 𝐫𝐢𝐠𝐡𝐭 𝐧𝐨𝐰) frontend developer - (fast, great communication, product focus and more)
+
+- live already: https://namiercapital.com/
+figma: https://www.figma.com/file/7oYG3rAAJ1RhZJIjxY8Y4r/Namier-website-redesign?node-id=304-0&t=v9ImpaypES7nUmeM-0
+- live already: https://www.think2099.io/
+figma: https://www.figma.com/file/IrVZ6kfWPEE5RFcRPpH5zq/2099---New-Website?node-id=0-1&t=rWeNXm3UKjI7yhDe-0

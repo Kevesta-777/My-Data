@@ -1,0 +1,50 @@
+Past Experience 
+ 
+1. Jleague 
+• Description 
+One of the projects I participated in is the J.League platform, which you can explore at J.League.com. This platform allows users to view the performance of football teams and the status of players during the current game season in Japan. 
+ In this project, I was responsible for both the frontend and backend development. We utilized Django and PostgreSQL for the frontend, backend, and database management. I mentored three frontend developers and personally built most of the user interfaces. 
+ To ensure pixel-perfect UIs, we maintained flexible communication with the designers. After two months of development, the frontend developers' speed increased significantly, which led to a bottleneck on the backend side. Consequently, I mentored the junior developers and took charge of the backend development simultaneously. 
+ As a result, we completed the development and delivered the product within three months from the project's inception. 
+  
+• Risk 
+The primary challenge in this project was reducing the page loading time. Unlike frameworks such as React, Vue, and Angular, Django renders entire pages rather than building them by component. This posed a significant issue as the page content included numerous images and videos, resulting in substantial loading times. 
+ To address this, I implemented AJAX to load each part of the page asynchronously. Additionally, I optimized the database structure and queries to enhance search speed. 
+After these two steps, the loading time was reduced from 5 minutes to 3 or 5 seconds. 
+
+**************************************************************************************
+introduction
+************
+Hi, I’m Michael Jin. I’m a Full Stack Developer with over 7 years of hands-on experience, really focused on delivering great customer experiences. I’ve got a solid background in frontend tech, especially with JavaScript, React, Next.js, and Angular, and I’m equally comfortable on the backend with Node.js and Express.
+I hold a bachelor's degree in computer science from The University of Texas at Austin,  where I built a solid foundation in software development.
+Since then, I've worked on a variety of projects, always pushing to stay ahead of the curve with new technologies. I love working in dynamic, challenging environments and really enjoy collaborating closely with UI/UX designers, mentoring junior devs, and doing thorough code reviews to keep quality high. My journey’s been all about continuously leveling up my skills and making impactful contributions across different companies.
+
+**************************************************************************************
+
+1.Tell me about your senior frontend lead role last role?
+*********************************************************
+At Cimpatico Studios, I was the Senior Front-End Lead, where I took the reins on developing and deploying a MERN stack application. My role was a blend of leading the technical direction and getting my hands dirty with code. We set some ambitious goals, like achieving 100% efficiency and improving app performance by 30%. This meant I had to dig deep into optimizing our React.js and Node.js setup, particularly focusing on state management with Redux and making sure our MongoDB interactions were seamless using Mongoose.
+One of the toughest challenges was enhancing the user experience by 25% while reducing development time by 30%. This required a lot of back-and-forth with the UI/UX team, quick iterations based on user feedback, and ensuring that we were always moving forward without sacrificing quality.
+Leading the React Native development for our mobile apps was another big hurdle. It wasn’t just about building the apps; it was about making sure they were performant and scalable across both iOS and Android. This involved a lot of testing, tweaking, and dealing with platform-specific quirks.
+Then how can you handle that challenge?
+Handling these challenges required a mix of technical expertise, strong communication, and leadership. First, I broke down the challenges into manageable parts. For instance, with performance optimization, I pinpointed specific bottlenecks, whether in the React component tree or in how we were managing data with Redux. I also made sure to stay updated with the latest best practices and tools, which helped in making informed decisions quickly.
+Collaboration was key. I worked closely with other developers, designers, and even the product team to ensure we were all aligned on goals and expectations. Conducting thorough code reviews was part of how I maintained quality—this wasn’t just about catching mistakes, but also mentoring junior developers and fostering a culture of excellence.
+For the mobile apps, I leaned heavily on automated testing and CI/CD pipelines to catch issues early and often. This helped in maintaining a high standard of quality without slowing down development.
+In short, I handled the challenges by breaking them down, leveraging my technical skills, collaborating closely with the team, and continuously iterating to improve both the product and the process.
+
+
+3.Tell me about your last company?
+**********************************
+Cimpatico produces talk shows about important business problems, and we use content from our conversations to create comprehensive education campaigns designed to help professionals learn how to get ahead in their careers by making transformative impacts in their work. We work closely with thought leaders and subject matter experts to develop learning plans. Then we produce video conversations, clips, soundbites for ads, webpages, blog posts, and numerous social media graphics to aid professionals in their learning journey from seeking basic information to selecting vendors and implementing best practice implementation approaches.
+
+4.Why are you leaving your job?
+*******************************
+In my previous role, I delivered several projects successfully and My Contract was ended due to the end of date, now I am actively looking for new opportunity align with my skills and experience.
+I’m particularly eager to grow my career by working on innovative projects that have a significant impact.
+
+5.Tell me about your last project?
+*********************************
+
+6.unexpected question about your last project?
+*********************************************
+Our project is currently in the testing phase, with our developers actively identifying and resolving errors. I spearheaded the web development, though the platform is not yet fully complete. The iOS development is ongoing and is expected to be finalized by November.it is not on my side. Upon completion, we will commence work on the new open-platform initiative for the company

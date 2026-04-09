@@ -1,0 +1,46 @@
+kareem.sykes@eccalon.com - {name: Kareem A.Sykes(CEO) company name: Eccalon}
+
+willem@aikido.dev - {name: Willem Delbare(CTO) company name: Aikido Security }
+
+golson@aristamd.com - {name: Glen Olson(Vice President) company name: AristaMD  }
+
+kevin@allymarhealth.com - {name: Kevin Preskenis(COO) company name: Allymar Health Solutions  }
+
+fr@loadstop.com  - {name: Farhan Rafique(Co-Founder) company name: LoadStop  }
+
+duff@direqt.io - {name: John Duffy(Co-founder, CEO) company name: Direqt  }
+
+sharad.rastogi@jll.com  - {name: Sharad Rastogi(CEO) company name: BuildOps  }
+
+hussein@super.com  - {name: Hussein Fazal(co-founder & CEO) company name: Super.com  }
+
+todd@silversmith.com - {name: Glen Olson(Vice President) company name: AristaMD  }
+
+jared@conanicutcap.com - {name: Jared Paquette( Chairman of the Board) company name: Capstone Integrated Solutions  }
+
+max@bisecthosting.com - {name: Max Podkidkin(Co-Founder and CEO) company name:BisectHosting  }
+
+oron@panth.com - {name: Oron Strauss(Chairman) company name: Pantheon  }
+
+
+marcteer@gmail.com -{Name: Marc Teer (Founder & CEO) company name: Black Spectacles}
+
+jason.lidow@gmail.com (jason.lidow@thedigitrustgroup.com) -{Name: Jason Lidow (President & CEO) company name: The DigiTrust Group}
+
+isaaccouncil27@gmail.com(isaac.councill@vanna.health) - {Name: Isaac Councill (CTO) company name: Vanna Health}
+
+mdanyluk@space-exec.com -{ Name: Marek Danyluk(CEO) company name: Space Executive}
+
+rod@kognitivinc.com -{Name: Rod J (CTO) company name: Rooster Scheduling}
+
+me@kurtfunai.com -{Name:Kurtis Funai(CTO) com:Fullscript}
+
+
+
+campbelljohnny11@gmail.com -{Name:Johnny Campbell, Company: Campbell Financial}
+
+sajad.darbishi1999@gmail.com -{Name:Sajad Darbishi
+ Com:}
+
+
+ jack.glickstein@intechnologygroup.com

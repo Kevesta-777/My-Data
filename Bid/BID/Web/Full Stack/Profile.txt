@@ -1,0 +1,97 @@
+
+
+------------------------------------------------------------------------------------------------------------------
+
+
+I'm a Full-Stack developer and UI/UX, designer. I have over 8 years of working experience to design and develop fully functional websites using HTML, CSS, Bootstrap, JavaScript (React), and PHP (Laravel).
+
+I have 5 years of working experience to develop functional WordPress websites using Elementor, Divi Builder, and WPBakery page builder.
+
+What can I do?
+1. Fully functional WordPress website design using Elementor.
+2. Fully functional WordPress website design using Divi theme.
+3. Theme customization.
+4. Website speed optimization
+5. Payment gateway integration (Stripe, PayPal, Square)
+6. Website design with HTML, CSS, JavaScript and PHP.
+7. Website translation using WPML, Polylang, GTranslate, and TranslatePress.
+8. Website management.
+9. UI/UX design
+10. Figma to Pixel perfect website design (HTML and WordPress)
+
+Why did you hire me?
+1. Unlimited revisions
+2. Three months of free maintenance service.
+3. You will be provided video guidelines to make small changes.
+4. Pay me once you are 100% satisfied.
+
+Please hire me if you would love to work with me. Thank you
+
+
+------------------------------------------------------------------------------------------------------------------
+
+
+Hello, everyone,
+Thank you for visiting my profile. My name is Scott and I am a software engineer with more than 6 years of experience as a full-stack developer.
+
+Till now I have completed many projects in different fields and have enough experience in my field. In the following I will introduce my main skills:
+
+1-Web application using Asp, Asp.Net Core MVC C#, VueJs, NuxtJs, Angular, NodeJs, jQuery, Html5/ CSS3,Bootstrap4, EF6, PHP 7.
+
+2- MOBILE APPLICATION with Xamarin C#, MAUI Framework.
+
+3- Desktop App: WinForms C#, VB.Net, Windows Services, WCF, UWP...
+
+4- API: Net Web API, Twilio SMS API, Google API, Drive API, Google Sheet API, YouTube API. Trading APIs (MetaTrader API, Interactive Broker API, Crypto Exchange APIs...).
+
+5- DB Management: SQLServer, MySQL, Oracle, PostgreSQL, SQLite, Local DB (SQL queries and scripts, backup automation, profile inspection...).
+
+6- Scrapping app: Scraped websites or desktop apps and saves data in CSV or
+Database using Selenium.
+
+7- WordPress CMS website creation and management.
+
+8- Web server management: IIS & Apache
+
+9- Interface C# with C++ libraries.
+
+10- Socket programming communicates with LabView using C#.
+
+11- Using IPFS protocol to read and write data in a decentralized file-sharing system.
+12 - Develop Daaps using Solidity, Ganache, Truffle and Web3.Js.
+13- any specific requirements I can meet, feel free to hire me to know more about your projects.
+
+------------------------------------------------------------------------------------------------------------------
+
+Hello, everybody.
+
+This is Scott from Canada, a high-skilled Fullstack developer with skills including ReactJS, VueJS, Angular, Laravel, PHP, Python, Blockchain, JavaScript and so on.
+
+I consider myself the right choice for you because I have the right skills and potential to match your needs as a senior ReactJS developer who has full experience in building pixel-perfect & responsive UI with ReactJS.
+
+As a senior Web developer who has 8 + years of experience in web development, I've built a lot of projects for Dapp, PWA, Admin panels and Web content using ReactJS/JavaScript.
+
+My working area includes implementing pixel-perfect UI with a good sense of design and a keen eye for details of the project, implementing API integration, making functionalities, fixing bugs, TDD, SEO and etc.
+
+I have the skill to execute all visual designs from concept to finalized engineering in a reasonable amount of time.
+
+My well-known skills:
+
+- React/Next/Vue/Gatsby, RoR
+- React Native / Android Studio / iOS
+- HTML5, CSS/CSS3, Bootstrap, TailwindCSS, MUI.
+-Wordpress, Shopify
+- JavaScript, ES6, 7, Typescript, Ajax, jQuery, OAuth
+- PHP, Laravel, Ruby on Rails, Blockchain
+- Node.js, Python, Django, Express, RUST
+- MySQL, Oracle, PostgreSQL, SQLite, MongoDB.
+- Github, GitLab, Bitbucket, Trello, Jira, AWS
+
+I can start your working immediately and dedicate full time.
+
+Please don't hesitate to contact me if you want a great deal for your business and beautiful life.
+
+Thank you.
+Scott Brown.
+
+------------------------------------------------------------------------------------------------------------------
