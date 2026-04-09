@@ -1,0 +1,26 @@
+Card Name
+chinecherem ugwuokanya
+
+Card Number
+5561 5014 7818 7047
+
+cvv
+196
+
+Expiry Date
+04/28
+
+Billing Address
+651 N Broad Street 
+
+City
+Middletown
+
+State
+Delaware 
+
+Country
+US
+
+Zip Code
+19709

@@ -1,0 +1,13 @@
+name: Christopher Ellington
+Adress:christopherellington003@gmail.com
+password:shinystar
+
+github:shinystar211@@@
+
+name: Tony Jermaine Frierson
+Address:tjfriersondream@gmail.com
+password:aqswdefr123!@#
+
+name: Rauan Satbekov
+Address: rauansatbekov@gmail.com
+password: aqswdefr123!@#

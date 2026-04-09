@@ -1,0 +1,5 @@
+Golang study: https://www.kelche.co/
+
+roomres-admin: https://gitlab.com/marenkin/roomres-admin
+roomres-hbe : https://gitlab.com/dmitry-room-res/hbe
+roomres-web : https://gitlab.com/roomres/web

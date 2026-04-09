@@ -1,0 +1,53 @@
+Bank name:
+Banking Circle S.A.
+
+Bank address:
+2, Boulevard de la Foire L-1528 LUXEMBOURG 
+
+IBAN:
+LU964080000026488712
+
+BIC:
+BCIRLULL
+
+Beneficiary name:
+spiress LLC
+
+--------------------------------------------------------------------------
+
+Bank name:
+Citibank
+
+Bank address:
+111 Wall Street New York, NY 10043 USA
+
+Routing (ABA):
+031100209
+
+SWIFT code:
+CITIUS33
+
+Account number:
+70584990000703108
+
+Account type:
+CHECKING
+
+Beneficiary name:
+spiress LLC
+-------------------------------------------------------------------------
+
+
+Card Info (Payoneer) 
+
+Number: 5293 6608 0591 6281
+
+Expire Date: 12/28  CVC: 150
+
+CardHoder Name: JURIYA CALEB MIYAZAWA
+Country: Brazil
+State: Minas Gerais
+City: Praca Virgilio Silva
+Address: bld 74 appt 18
+Postal Code: 37720-000
+

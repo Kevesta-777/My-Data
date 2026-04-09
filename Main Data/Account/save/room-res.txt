@@ -1,0 +1,48 @@
+Frontend 
+
+export NODE_ENV=development
+export API2_URL=http://localhost:8090/v2 
+export API3_URL=http://localhost:8090/v2 
+export API_URL=http://localhost:8090/v1
+export SEGMENT_KEY=wbTDQ1de569lWz4kEyTa3yJcshyglwkT
+npm run start
+
+Backend
+
+go run hbehost.go 8085 
+
+cd api
+go run app.go
+
+cd hbesearch
+go run hbesearch.go 8100
+
+cd pdfserver
+go run app.go
+
+
+
+GitLab account:
+
+polarislee1984@gmail.com
+qwer12341!A
+
+--- Astrill Account
+polarislee1984@outlook.com
+dacheng529!~
+
+
+polarislee1984@outlook.com 123456 Australia
+
+polarislee1984@gmail.com 12345 US
+
+-------API document------------
+https://docs.emergingtravel.com/docs/b2b-api/booking/b2b-v3-hotel-order-booking-form/ 
+
+-------URLs----------------
+..Four Seasons Hotel Sydney || book..
+http://localhost:3000/book/106005?dateFrom=10-Jun-2025&dateTo=11-Jun-2025&destination=Sydney%2C+NSW%2C+AU&ishotel=0&pkg=1&room-0-adults=2&room-0-children=0&roomsAmount=1&type=net&externalRef=&actid=a8b0e3e6-4ebe-49bb-b506-a5a2adb8550d&sgs=2&provider=29&roomId=&roomRateCode=%22m-d36cc7fd-0a98-5d5b-8074-0b4d69c70b8a%22&tp=574
+..Four Seasons Hotel Sydney..
+http://localhost:3000/hotelpage/106005?dateFrom=10-Jun-2025&dateTo=11-Jun-2025&destination=Sydney%2C+NSW%2C+AU&ishotel=0&pkg=1&room-0-adults=2&room-0-children=0&roomsAmount=1&type=net&externalRef=&actid=a8b0e3e6-4ebe-49bb-b506-a5a2adb8550d&sgs=2&provider=29&tp=574
+..QT Bondi..
+http://localhost:3000/hotelpage/139125?dateFrom=24-Jun-2025&dateTo=25-Jun-2025&destination=Sydney%2C+NSW%2C+AU&ishotel=0&pkg=1&room-0-adults=2&room-0-children=0&roomsAmount=1&type=net&provider=29&externalRef=&actid=3b12f7c4-145a-4491-a5f3-c981f87dd651&sgs=2
