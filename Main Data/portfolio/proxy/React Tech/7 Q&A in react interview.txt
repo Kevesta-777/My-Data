@@ -1,0 +1,102 @@
+If you’re into programming then surely you can’t deny that you aren’t aware of the popularity of React. React which is a very popular JavaScript library is booming around the world and a lot of industries are working on it. It doesn’t matter whether you’re a professional programmer or a beginner, knowing React is surely going to give you an advantage of being on the top in your career. 
+
+7-Most-Asked-ReactJS-Interview-Questions-Answers
+This popular JavaScript library has now become one of the best choices for industries to built their frontend app on it. React speeds up the development process and a lot of features of this library have made the development task easier for the programmers. 
+
+If you’re someone who is interested in building your career in React then surely you need to prepare yourself for the interviews round. In this blog, we are going to discuss some ReactJS interview questions that will be helpful for clearing the interview round.
+
+1. How React Works? How Virtual DOM works in React?
+React works on Virtual DOM. When a state changes in a component, it runs a diffing algorithm. This identifies that what has been changed in the virtual DOM. The next step is reconciliation which updates the DOM with diff result. 
+
+HTML DOM has a tree structure shape that is allowed by the structure of HTML document. DOM trees are big due to the size of large apps. Nowadays, we are looking more towards dynamic apps (Single page applications) so it is important to change the DOM tree constantly a lot. This is a real performance and pain in development. 
+
+Virtual DOM is the abstraction of HTML DOM. Virtual DOM is lightweight, and it’s detached from browser-specific implementation details. Virtual DOM is not developed by React, but it uses it and provides it for free.  ReactElement lives inside the virtual DOM. It makes the basic node here. ReactElements are rendered into the “real” DOM once you define the elements. 
+
+Once a state is changed in React diff algorithm identifies what has been changed. Then DOM gets updated with the result of diff. Virtual DOM is faster than the regular DOM. 
+
+//2. What is JSX?
+JSX stands for JavaScript XML. It is a syntax extension of JavaScript, and it comes with the full power of JavaScript. JSX create React “elements”. You will see the syntax of JSX wrapped in curly braces. After compilation JSX expressions become the regular JavaScript objects which means you are allowed to use JSX inside if statements and for loops, assign it to a variable, accept it as an argument and return it from functions. 
+
+Look at the example given below to understand the syntax of JSX in React..
+
+
+const element = (
+<h1 className="greeting">
+Hello World!
+</h1>
+);
+ 
+
+The equivalent of it using createElement is given below…
+ 
+
+
+const element = React.createElement(
+'h1',
+  {"className":"greeting"},
+  'Hello World!'
+);
+ 
+
+3. What is ReactDOM, and what is the Difference Between ReactDOM and React?
+Earlier ReactDOM was part of React but later React and ReactDOM were split into two different libraries. Basically, ReactDOM works like glue between React and the DOM. We can use it for one single thing: mounting with ReactDOM. 
+
+ReactDOM.findDOMNode() which is another useful feature of ReactDOM can be used to access the DOM element. For the rest of the things React is there. React is used to define and create the elements, for lifecycle hooks, etc. 
+
+//4. Difference Between a Class Component and a Functional Component?
+In the class component, you can use additional features such as local state and lifecycle hooks. Adding more into it, to enable your component and to have direct access to our store and thus to holds state.
+
+When the component just receives props and renders them to the page. It Is called a ‘stateless component’ for which pure function can be used.
+
+Below is an example of a functional component that is stateless…
+
+
+import React from 'react';
+
+const Booklist = ({ books }) => ( 
+  <ul> 
+    {books.map(({ title, author }) => (
+      <li key={title}> {/* Ensure each list item has a unique key */}
+        {title} -- {author}
+      </li>
+    ))}
+  </ul> 
+);
+
+export default Booklist;
+//5. What is the Difference Between State and Props?
+When a component mounts in a React app, the state data structure starts with the default value. Across time, it is mutated, mostly as a result of user events. Props which is the shorthand for properties are a Component configuration. Basically, props work like an argument that defines how components talk to each other. Props are immutable and as far as components are receiving them is concerned.
+
+A component can not change its props, but it is responsible for putting together the props of its child Components. Props do not have to just be data- callback functions may get passed in as props. 
+
+We can also have default props so that props are set even if a parent component doesn’t pass props down. Props and state do the same thing, but both are used in different ways. The majority of components are going to be stateless. Props are used to pass data from parent to child or between the components itself. 
+
+Props are immutable and can not be changed. On the other hand, the state is mutable or data that will change. This is specifically useful for user input. 
+
+6. What is the Higher-Order Component?
+It’s an advanced technique in React for reusing component logic. HOCs are not part of the React API. These are patterns that emerge from React’s compositional nature. 
+
+Basically, higher-order components are function that takes a component and returns a new component. HOC’s allows you to reuse the code, logic, and bootstrap abstraction. In third-party React libraries, HOC’s are common. 
+
+The most common is Redux’s connect function. Instead of simply sharing utility libraries and simple composition, HOC’s are the best way to share behavior between React Components. You can take advantage of HOC in code refactoring. When you are repeating the same code again and again at different places then use reusable HOC to refactor the code.
+
+7. What is Redux?
+Redux is a great way to store the entire application’s state in a single store. When your application is small, you wouldn’t be facing issues in handling the state. But when it starts growing you will find that state in various components is becoming unmanageable. Here Redux solves your problem. 
+
+Redux mainly works on three components:
+
+Action: Actions are payloads of information that send data from the application to the store. Actions are the only source of information for the store. We send them to the store using the store.dispatch().
+Reducer: Reducer specifies how the applications’ state changes in response to actions sent to the store. Actions describe what happened, but it doesn’t describe how the application’s state changes. Basically, a reducer determines how the state will change to action.
+Store: Store objects bring the action and reducer together. You can access the state via getState(); It allows the state to be updated via dispatch (action);
+Store contains javascript objects. You can change the state by firing actions from your application. After that, you can write reducers for these actions and modify the state. The whole transition is kept inside the reducer, and it should not have any side effects. 
+
+In Redux there should be only a single source of truth for your application state. It can be a UI state such as which state is active or Data state like the user profile details. These data are retained by Redux in a closure that redux calls a store. 
+
+Note that you’re only allowed to create a single store in a Redux.
+
+
+{
+  first_name: 'John',
+  last_name: 'Doe',
+  age: 28
+}

@@ -1,0 +1,246 @@
+- Taylor Prompt
+
+￼ ELITE ATS RESUME GENERATION PROMPT (FINAL — CANONICAL, ENFORCED & PRODUCTION-GRADE)
+
+ROLE
+
+Act as a Senior Technical Recruiter, Engineering Hiring Manager, and ATS Resume Architect specializing in Senior Software Engineers, Staff Software Engineers, and Principal Software Engineers.
+
+Produce ATS-optimized resumes that meet real senior-level hiring standards for software engineering roles.
+
+No generic keyword stuffing. No junior task phrasing. No speculative content.
+
+OBJECTIVE
+
+When a Job Description (JD) is provided, generate a text-only, ATS-optimized resume precisely aligned to the JD.
+
+The resume must authentically represent the candidate and demonstrate:
+
+Deep, sustained professional software engineering experience
+
+Strong experience with system architecture, backend development, and full-stack engineering
+
+Proficiency in modern programming languages (e.g., Python, Java, JavaScript, C++, etc.)
+
+Extensive experience with cloud infrastructure, including AWS, Azure, GCP, and related tools
+
+Expertise in designing scalable, high-performance systems and applications
+
+Experience with databases, microservices, and distributed systems
+
+Strong familiarity with CI/CD pipelines, automated testing, and deployment
+
+Ownership of production-grade, secure, and scalable software systems
+
+The output must be ready to submit with zero edits.
+
+⚙️ REQUIRED STRUCTURE
+
+EXACT ORDER — DO NOT CHANGE
+
+Name, Title, Contact Info
+
+SUMMARY
+
+PROFESSIONAL EXPERIENCE
+
+TECHNICAL SKILLS
+
+EDUCATION
+
+￼ FORMATTING, TYPOGRAPHY & LAYOUT RULES
+
+STRICT — NO EXCEPTIONS
+
+SECTION HEADERS
+
+The following section headers must be:
+
+ALL CAPS
+
+Bolded
+
+Font size: 16
+
+Font color: #2E75B6
+
+Headers affected:
+
+SUMMARY
+
+PROFESSIONAL EXPERIENCE
+
+TECHNICAL SKILLS
+
+EDUCATION
+
+No other text may use this font size or color.
+
+GLOBAL LAYOUT & SPACING
+
+Single-column, DOC-ready, text-only layout
+
+No tables, graphics, icons, emojis, or columns
+
+Before paragraph spacing: 0 pt
+
+After paragraph spacing: 0 pt
+
+Line spacing: default / single
+
+Resume must fit ≤ 3 pages (A4 / US Letter)
+
+ALIGNMENT RULES
+
+All content is left-aligned except the Summary paragraph
+
+Summary content must be fully JUSTIFIED
+
+Summary header remains left-aligned
+
+EMPHASIS RULES
+
+Section headers must be bolded
+
+Company names must be bolded
+
+Bold primary technologies and platforms
+
+Avoid bolding every token in long lists
+
+No italics unless part of a proper noun
+
+🧾 SUMMARY
+
+≈ 500 CHARACTERS — HARD CONSTRAINT
+
+Must begin exactly with:
+
+Seasoned Senior Software Engineer with over 10 years of extensive experience designing, building, and optimizing production-grade software systems…
+
+Content requirements:
+
+JD-relevant programming languages
+
+System architecture and backend development
+
+Cloud-native infrastructure and distributed systems
+
+Microservices, databases, and scalability
+
+Strong DevOps, CI/CD pipelines, and automation
+
+Experience with real-time systems, performance optimization, and security
+
+Hard constraints:
+
+￼ No pronouns
+
+￼ No metrics
+
+￼ No time- or year-based claims
+
+￼ No clichés or buzzword fluff
+
+Summary paragraph must be fully justified.
+
+￼ PROFESSIONAL EXPERIENCE
+
+ORDERING RULE (MANDATORY)
+
+Experience must be listed in reverse chronological order (most recent and most senior role first).
+
+Detail, bullet count, and impact must strictly decrease with older roles.
+
+Avoid repeating the same action verb more than twice per role.
+
+Focus on architecture decisions, ownership, and technical tradeoffs.
+
+Example Format:
+
+TechCorp — San Francisco, CA (Hybrid)
+Senior Software Engineer | March 2022 – October 2025
+HIGH DETAIL — MAXIMUM IMPACT & OWNERSHIP
+Exactly 8–9 bullets:
+
+End-to-end ownership of system architecture, design, and optimization for high-performance applications
+
+Led development of scalable microservices and API frameworks for cloud-based applications
+
+Optimized backend systems for high availability, low latency, and fault tolerance
+
+Implemented CI/CD pipelines, automated testing, and deployment strategies
+
+Collaborated with cross-functional teams to deliver robust, secure software solutions
+
+Mentored junior engineers and enforced best practices for DevOps, performance, and security
+
+Spearheaded the migration to cloud-native infrastructure on AWS and GCP
+
+Example Format:
+
+DevSolutions — New York, NY (Remote)
+Software Engineer | May 2017 – January 2022
+MEDIUM DETAIL — SYSTEMS & SCALE
+Exactly 7–8 bullets:
+
+Developed and optimized backend services, focusing on performance and scalability
+
+Worked with cloud platforms (AWS, Azure) for deployment and resource management
+
+Contributed to API design, backend services, and integration with front-end systems
+
+Assisted in the design and implementation of secure, distributed systems
+
+Improved database performance and optimized queries for large datasets
+
+🛠 TECHNICAL SKILLS
+
+NO BLANK LINES BETWEEN CATEGORIES
+
+Programming Languages (7–8)
+
+Frameworks & Libraries (7–8)
+
+Cloud Platforms & Services (5–6)
+
+DevOps & Automation (4–5)
+
+Databases (4–5)
+
+Testing & QA (4–5)
+
+Version Control & Collaboration (4–5)
+
+Development Tools & IDEs (2–3)
+
+Agile Methodologies & Tools (3–4)
+
+￼ EDUCATION (FIXED)
+
+Bachelor of Science in Computer Science
+University of XYZ — Boston, MA | 2012 – 2016
+
+🧩 QUALITY & OUTPUT RULES
+
+Bullet counts must be exact
+
+Reverse chronological order is mandatory
+
+Language must tightly mirror JD terminology
+
+Emphasize software engineering, cloud platforms, microservices, DevOps, CI/CD
+
+OUTPUT
+
+Output the resume only.
+￼ No explanations
+￼ No questions
+￼ No extra text
+
+INPUT
+
+Paste the Job Description (JD) below.
+
+
+  First create initial one, then I'll slightly customize it in my needs and you have to study the fixed things and will keep that in memory and implement it after moving forward.
